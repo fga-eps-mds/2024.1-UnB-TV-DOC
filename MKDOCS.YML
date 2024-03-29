@@ -8,4 +8,10 @@ nav:
   - Planejamento:
     - Quadro de Horários: planejamento/quadro_horarios.md
 
-theme: readthedocs
+theme:
+  name: material
+  language: 'pt'
+  logo: assets/unbtv-icon.ico
+  favicon: assets/unbtv-icon.ico
+  palette:
+    primary: blue green

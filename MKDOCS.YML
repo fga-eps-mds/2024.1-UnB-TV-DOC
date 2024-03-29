@@ -1,0 +1,9 @@
+site_name: 2024.1-UnB-TV-DOC
+
+repo_name: '2024.1-UnB-TV-DOC'
+repo_url: 'https://github.com/fga-eps-mds/2024.1-UnB-TV-DOC'
+
+nav:
+  - Home: index.md
+
+theme: readthedocs

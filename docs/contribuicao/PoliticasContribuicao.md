@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-Esse documento guia como devem ser feitas as contribuições no projeto. Ele se basea nas políticas do grupo do UnB-TV do semestre 2023.2, a fim de que o projeto continue tendo similaridades na parte de contribuição.
+Esse documento guia como devem ser feitas as contribuições no projeto. Ele se basea nas [políticas do grupo do UnB-TV do semestre 2023.2](https://fga-eps-mds.github.io/2023.2-UnB-TV-DOC/#/./politicas/CONTRIBUTING), a fim de que o projeto continue tendo similaridades na parte de contribuição.
 
 ## 2. Guia de contribuição
 

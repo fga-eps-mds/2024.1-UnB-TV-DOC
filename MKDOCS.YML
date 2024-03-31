@@ -5,8 +5,10 @@ repo_url: 'https://github.com/fga-eps-mds/2024.1-UnB-TV-DOC'
 
 nav:
   - Home: index.md
+  - Guia de Contribuição:
+    - Políticas de Contribuição: contribuicao/PoliticasContribuicao.md
   - Planejamento:
-    - Quadro de Horários: planejamento/PlanoComunicacao.md
+    - Plano de Comunicação: planejamento/PlanoComunicacao.md
 
 theme:
   name: material

@@ -6,7 +6,7 @@ repo_url: 'https://github.com/fga-eps-mds/2024.1-UnB-TV-DOC'
 nav:
   - Home: index.md
   - Planejamento:
-    - Quadro de Horários: planejamento/quadro_horarios.md
+    - Plano de Comunicação: planejamento/PlanoComunicacao.md
 
 theme:
   name: material

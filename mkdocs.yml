@@ -5,7 +5,11 @@ repo_url: 'https://github.com/fga-eps-mds/2024.1-UnB-TV-DOC'
 
 nav:
   - Home: index.md
+  - Guia de Contribuição:
+    - Código de Conduta: contribuicao/CodigoConduta.md
+    - Políticas de Contribuição: contribuicao/PoliticasContribuicao.md
   - Planejamento:
+    - Metodologias: planejamento/Metodologias.md
     - Plano de Comunicação: planejamento/PlanoComunicacao.md
 
 theme:

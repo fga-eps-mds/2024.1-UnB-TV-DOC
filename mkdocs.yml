@@ -13,7 +13,7 @@ nav:
   - Planejamento:
     - Plano de Tempo: planejamento/PlanejamentoTempo.md
     - Plano de Comunicação: planejamento/PlanoComunicacao.md
-    - Metodologias: planejamento/Metodologias.md
+    # - Metodologias: planejamento/Metodologias.md
   - Sprints:
     - Sprint Template: sprints/SprintTemplate/SprintTemplate.md
     - Pareamento Template: sprints/SprintTemplate/PareamentoTemplate.md

@@ -8,9 +8,15 @@ nav:
   - Guia de Contribuição:
     - Código de Conduta: contribuicao/CodigoConduta.md
     - Políticas de Contribuição: contribuicao/PoliticasContribuicao.md
+  - Treinamentos:
+    - Quadro de Conhecimentos: treinamentos/QuadroConhecimento.md
   - Planejamento:
-    - Metodologias: planejamento/Metodologias.md
+    - Plano de Tempo: planejamento/PlanejamentoTempo.md
     - Plano de Comunicação: planejamento/PlanoComunicacao.md
+    - Metodologias: planejamento/Metodologias.md
+  - Sprints:
+    - Sprint Template: sprints/SprintTemplate.md
+    - Pareamento Template: sprints/PareamentoTemplate.md
 
 theme:
   name: material

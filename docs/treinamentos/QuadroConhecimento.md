@@ -27,7 +27,7 @@ A partir disso, as notas que os integrantes deveriam dar seriam de 1 a 5 com a s
 
 Dessa forma, pode ser visto abaixo o quadro de conhecimentos resultante da equipe:
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ72YKtHMCatmYWbDmzqj7Pjemp7-3qArnThDl8VurnmTWBJIdXwWn5xUbOXn0AkxGgQbHzrqcBbAJz/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width="1250px" height="350px" frameborder="0"width="1250px" height="550px" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ72YKtHMCatmYWbDmzqj7Pjemp7-3qArnThDl8VurnmTWBJIdXwWn5xUbOXn0AkxGgQbHzrqcBbAJz/pubhtml?widget=true&amp;headers=false"></iframe>
 
 ## 3. Versionamento do documento
 

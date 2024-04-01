@@ -16,8 +16,8 @@ Basicamente, quanto mais vermelho um horário, maior disponibilidade o grupo tem
 
 A equipe, seguindo a metodologia ágil Scrum, terá 3 tipos principais de reuniões internas:
 
-1. Planning: planejamento da Sprint;
-2. Daily: reuniões diárias para discussão do andamento das tarefas;
+1. Planning: planejamento das tarefas da Sprint;
+2. Daily: reuniões diárias para discussão do andamento das tarefas diárias;
 3. Review + Retrospectiva: revisar o que foi feito durante a Sprint e ter discussões de como ela foi conduzida.
 
 Dessa forma, os horários dessas reuniões foram decididos para acontecer de acordo com a tabela abaixo:

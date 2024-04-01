@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-Esse documento apresenta o código de conduta do projeto. Ele se basea no [código de conduta do grupo do UnB-TV do semestre 2023.2](https://fga-eps-mds.github.io/2023.2-UnB-TV-DOC/#/./politicas/CODE_OF_CONDUCT), a fim de que o projeto continue tendo similaridades na parte de contribuição.
+Esse documento apresenta o código de conduta do projeto. Ele se baseia no [código de conduta do grupo do UnB-TV do semestre 2023.2](https://fga-eps-mds.github.io/2023.2-UnB-TV-DOC/#/./politicas/CODE_OF_CONDUCT), a fim de que o projeto continue tendo similaridades na parte de contribuição.
 
 ## 2. Nossa promessa
 

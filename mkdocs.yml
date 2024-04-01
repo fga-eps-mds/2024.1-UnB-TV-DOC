@@ -15,8 +15,8 @@ nav:
     - Plano de Comunicação: planejamento/PlanoComunicacao.md
     - Metodologias: planejamento/Metodologias.md
   - Sprints:
-    - Sprint Template: sprints/SprintTemplate.md
-    - Pareamento Template: sprints/PareamentoTemplate.md
+    - Sprint Template: sprints/SprintTemplate/SprintTemplate.md
+    - Pareamento Template: sprints/SprintTemplate/PareamentoTemplate.md
 
 theme:
   name: material

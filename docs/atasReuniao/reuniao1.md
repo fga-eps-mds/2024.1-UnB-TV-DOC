@@ -1,3 +1,4 @@
+# Reunião 1
 ## 1. Introdução
 
 Esse documento visa apresentar os dados da primeira reunião realizada entre as equipes.
@@ -17,13 +18,14 @@ Esse documento visa apresentar os dados da primeira reunião realizada entre as 
   - João Vitor Santos de Oliveira
   - João Vitor Santos de Oliveira
 
-## 3. Gravação da reunião
+## 3. Gravação da Reunião
 
-[![Reunão 1](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://www.youtube.com/watch?v=<VIDEO_ID>)
+[![Reunião 1](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://www.youtube.com/watch?v=<VIDEO_ID>)
 
 
-## 3. Versionamento do documento
+## 4. Versionamento do Documento
 
 | Data | Versão | Descrição | Autor |
 | :-----: | :-------------: | :---------------: | :-: |
-| 08/04/2023 | 1.0 | Versão inicial da reuniao 1 | Vinícius Assumpção de Araújo |
+| 08/04/2024 | 1.0 | Versão inicial da reuniao 1 | Vinícius Assumpção de Araújo |
+| 08/04/2024 | 1.1 | Ajuste na padronização do documento | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) e [Vinícius Assumpção de Araújo](https://github.com/viniman27) |

@@ -13,10 +13,9 @@ Esse documento visa apresentar os dados da primeira reunião realizada entre as 
   - Felipe de Jesus Rodrigues
   - Gabriel Henrique Rodrigues de Lima
   - Jéssica Eveline Saraiva Araújo
-  - João Victor Marques Reis de Miranda
-  - João Victor Marques Reis de Miranda
   - João Vitor Santos de Oliveira
-  - João Vitor Santos de Oliveira
+  - Pedro Gustavo de Souza Santos
+  - Ruan Sobreira Carvalho
 
 ## 3. Gravação da Reunião
 
@@ -27,5 +26,6 @@ Esse documento visa apresentar os dados da primeira reunião realizada entre as 
 
 | Data | Versão | Descrição | Autor |
 | :-----: | :-------------: | :---------------: | :-: |
-| 08/04/2024 | 1.0 | Versão inicial da reuniao 1 | Vinícius Assumpção de Araújo |
+| 08/04/2024 | 1.0 | Versão inicial da reunião 1 | [Vinícius Assumpção de Araújo](https://github.com/viniman27) |
 | 08/04/2024 | 1.1 | Ajuste na padronização do documento | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) e [Vinícius Assumpção de Araújo](https://github.com/viniman27) |
+| 08/04/2024 | 1.2 | Correção na lista de presentes | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) e [Vinícius Assumpção de Araújo](https://github.com/viniman27) |

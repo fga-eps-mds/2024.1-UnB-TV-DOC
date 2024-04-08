@@ -18,7 +18,7 @@ No dia 08/04 foi realizada uma reunião para apresentar o lean inception para os
 
 ## 3. Gravação da Reunião
 
-[![Reunião 3](https://www.youtube.com/watch?v=XXrGuihYi18/0.jpg)](https://www.youtube.com/watch?v=XXrGuihYi18)
+[![Reunião 3](https://img.youtube.com/vi/XXrGuihYi18/maxresdefault.jpg)](https://www.youtube.com/watch?v=XXrGuihYi18)
 
 ## 4. Versionamento do Documento
 
@@ -27,3 +27,4 @@ No dia 08/04 foi realizada uma reunião para apresentar o lean inception para os
 | 08/04/2024 | 1.0 | Versão inicial da reuniao 3 | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |
 | 08/04/2024 | 1.1 | Correção da lista de membros presentes | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |
 | 08/04/2024 | 1.2 | Padronização do documento e adição de link da gravação | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |
+| 08/04/2024 | 1.3 | Correção do link da gravação | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |

@@ -8,16 +8,17 @@
   - Victor Hugo Oliveira Leão
   - Vinicius de Assumpção Araújo
   - Benjamim Lacerda Santos
-  - Felipe de Jesus Rodrigues
   - Gabriel Henrique Rodrigues de Lima
   - Jéssica Eveline Saraiva Araújo
-  - João Victor Marques Reis de Miranda
   - João Vitor Santos de Oliveira
+  - Pedro Gustavo de Souza Santos
+  - Ruan Sobreira Carvalho
 
 Versionamento do documento
 | Data | Versão | Descrição | Autor |
 | :-----: | :-------------: | :---------------: | :-: |
-| 08/04/2023 | 1.0 | Versão inicial da reuniao 3 | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |
+| 08/04/2024 | 1.0 | Versão inicial da reuniao 3 | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |
+| 08/04/2024 | 1.1 | Correção da lista de membros presentes | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |
 
 
 

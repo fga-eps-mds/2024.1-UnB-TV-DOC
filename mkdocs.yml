@@ -17,6 +17,10 @@ nav:
   - Sprints:
     - Sprint Template: sprints/SprintTemplate/SprintTemplate.md
     - Pareamento Template: sprints/SprintTemplate/PareamentoTemplate.md
+  - Atas de Reuniões:  
+    - Reunião 1: 
+    - Reunião 2:
+    - Reunião 3:
 
 theme:
   name: material

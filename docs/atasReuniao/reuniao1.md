@@ -1,7 +1,7 @@
 # Reunião 1
 ## 1. Introdução
 
-Esse documento visa apresentar os dados da primeira reunião realizada entre as equipes.
+Esse documento visa apresentar os dados da primeira reunião realizada entre as equipes. Houve apresentaçãos dos membros e discussão dos primeiros detalhes do projeto.
 
 ## 2. Membros Presentes
 
@@ -19,7 +19,7 @@ Esse documento visa apresentar os dados da primeira reunião realizada entre as 
 
 ## 3. Gravação da Reunião
 
-[![Reunião 1](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://www.youtube.com/watch?v=<VIDEO_ID>)
+[![Reunião 1](https://img.youtube.com/vi/soGV7i6mD1U/0.jpg)](https://www.youtube.com/watch?v=soGV7i6mD1U)
 
 
 ## 4. Versionamento do Documento
@@ -29,3 +29,4 @@ Esse documento visa apresentar os dados da primeira reunião realizada entre as 
 | 08/04/2024 | 1.0 | Versão inicial da reunião 1 | [Vinícius Assumpção de Araújo](https://github.com/viniman27) |
 | 08/04/2024 | 1.1 | Ajuste na padronização do documento | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) e [Vinícius Assumpção de Araújo](https://github.com/viniman27) |
 | 08/04/2024 | 1.2 | Correção na lista de presentes | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) e [Vinícius Assumpção de Araújo](https://github.com/viniman27) |
+| 09/04/2024 | 1.3 | Correção na lista de presentes | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) e [Vinícius Assumpção de Araújo](https://github.com/viniman27) |

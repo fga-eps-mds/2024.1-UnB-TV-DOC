@@ -17,10 +17,17 @@
   - João Vitor Santos de Oliveira
   - João Vitor Santos de Oliveira
 
+## 3. Gravação da Reunião
+
+[![Reunião 2.1](https://img.youtube.com/vi/soGV7i6mD1U/0.jpg)](https://www.youtube.com/watch?v=soGV7i6mD1U)
+
+[![Reunião 2.2](https://img.youtube.com/vi/rWX1IPWtppw/0.jpg)](https://www.youtube.com/watch?v=rWX1IPWtppw)
+
 Versionamento do documento
 | Data | Versão | Descrição | Autor |
 | :-----: | :-------------: | :---------------: | :-: |
 | 08/04/2023 | 1.0 | Versão inicial da reuniao 1 | [João Pedro de Camargo Vaz](github.com/JoaoPedro0803) |
+| 09/04/2023 | 1.1 | Adição das gravações das reuniões| [João Pedro de Camargo Vaz](github.com/JoaoPedro0803) e [Vinícius Assumpção de Araújo](github.com/viniman27) |
 
 
 

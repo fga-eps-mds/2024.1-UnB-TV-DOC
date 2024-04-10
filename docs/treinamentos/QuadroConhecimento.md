@@ -4,7 +4,7 @@
 
 Esse documento visa apresentar o quadro de conhecimentos da equipe no começo do projeto e será incrementado ao longo do mesmo, a fim de mostrar a evolução da equipe no semestre como um todo. Além de guiar treinamentos a serem realizados pela equipe de EPS para os membros de MDS.
 
-## 2. Quadro de Conhecimentos da equipe
+## 2. Quadro de Conhecimentos da Equipe
 
 Levando em consideração as tecnologias iniciais e básicas do projeto, as seguintes tecnologias foram colocadas para avaliação dos membros:
 
@@ -29,8 +29,8 @@ Dessa forma, pode ser visto abaixo o quadro de conhecimentos resultante da equip
 
 <iframe width="1250px" height="350px" frameborder="0"width="1250px" height="550px" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ72YKtHMCatmYWbDmzqj7Pjemp7-3qArnThDl8VurnmTWBJIdXwWn5xUbOXn0AkxGgQbHzrqcBbAJz/pubhtml?widget=true&amp;headers=false"></iframe>
 
-## 3. Versionamento do documento
+## 3. Versionamento do Documento
 
 | Data | Versão | Descrição | Autor |
 | :-----: | :-------------: | :---------------: | :-: |
-| 01/04/2023 | 1.0 | Versão inicial com pontos 1 a 2 | Victor Hugo Oliveira Leão |
+| 01/04/2024 | 1.0 | Versão inicial com pontos 1 a 2 | [Victor Hugo Oliveira Leão](https://github.com/victorleaoo) |

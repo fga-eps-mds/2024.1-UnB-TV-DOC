@@ -42,8 +42,8 @@ As reuniões com o PO (Caio) e o professor (Hilmer) estão, inicialmente, progra
 | WhatsApp | Responsável pela comunicação rápida da equipe interna |
 | Zenhub | Acompanhamento da realização do projeto (quadro Kanban), juntamente com Roadmap |
 
-## 6. Versionamento do documento
+## 6. Versionamento do Documento
 
 | Data | Versão | Descrição | Autor |
 | :-----: | :-------------: | :---------------: | :-: |
-| 31/03/2023 | 1.0 | Versão inicial com pontos 1 a 5 | Victor Hugo Oliveira Leão |
+| 31/03/2024 | 1.0 | Versão inicial com pontos 1 a 5 | [Victor Hugo Oliveira Leão](https://github.com/victorleaoo) |

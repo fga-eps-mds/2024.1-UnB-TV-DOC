@@ -4,9 +4,9 @@
 
 Esse documento guia como devem ser feitas as contribuições no projeto. Ele se baseia nas [políticas do grupo do UnB-TV do semestre 2023.2](https://fga-eps-mds.github.io/2023.2-UnB-TV-DOC/#/./politicas/CONTRIBUTING), a fim de que o projeto continue tendo similaridades na parte de contribuição.
 
-## 2. Guia de contribuição
+## 2. Guia de Contribuição
 
-### 2.1 Reportar Bugs
+### 2.1. Reportar Bugs
 
 Para reportar um Bug, uma issue deve ser criada seguindo o template abaixo:
 
@@ -26,7 +26,7 @@ Passo a passo detalhado de como o Bug pode ser encontrado/reproduzido
 Adicione comentários adicionais que considerar importante
 ```
 
-### 2.2 Sugerir melhorias
+### 2.2. Sugerir Melhorias
 
 Para sugerir uma melhoria, uma issue deve ser criada seguindo o template abaixo:
 
@@ -46,7 +46,7 @@ Explicar de forma mais detalhada o que deve ser feito para a melhoria ser aprese
 Adicione comentários adicionais que considerar importante
 ```
 
-### 2.3 Branch
+### 2.3. Branch
 
 As novas branchs criadas devem seguir o padrão:
 
@@ -62,7 +62,7 @@ A nome da branch deve ser associado ao número da issue e da tarefa, já que tod
 9-Nome-da-tarefa
 ```
 
-### 2.4 Commit
+### 2.4. Commit
 
 Os commits devem ser atômicos (uma contribuição pequena para resolver um problema específico) e significativos. A mensagem do commit deve conter o que foi feito de maneira sucinta e direta, além disso ela precisa estar em **português**, **começar** com um **verbo** e com a **primeira letra maiúscula**. Exemplo de como um commit deve ser feito:
 
@@ -80,7 +80,7 @@ Co-authored-by: name <name@example.com>
 Co-authored-by: another-name <another-name@example.com>"
 ```
 
-### 2.5 Pull Request
+### 2.5. Pull Request
 
 Ao criar um Pull Request, ele deve seguir o seguinte padrão:
 
@@ -103,8 +103,9 @@ Ao criar um Pull Request, ele deve seguir o seguinte padrão:
 3. Build passando.
 ```
 
-## 3. Versionamento do documento
+## 3. Versionamento do Documento
 
 | Data | Versão | Descrição | Autor |
 | :-----: | :-------------: | :---------------: | :-: |
-| 31/03/2023 | 1.0 | Versão inicial com pontos 1 a 2 (2.5) | Victor Hugo Oliveira Leão |
+| 31/03/2023 | 1.0 | Versão inicial com pontos 1 a 2 (2.5) | [Victor Hugo Oliveira Leão](https://github.com/victorleaoo) |
+| 10/04/2024 | 1.1 | Ajuste na padronização do documento | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |

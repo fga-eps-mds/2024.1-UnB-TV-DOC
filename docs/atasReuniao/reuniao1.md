@@ -1,4 +1,5 @@
 # Reunião 1
+
 ## 1. Introdução
 
 Esse documento visa apresentar os dados da primeira reunião realizada entre as equipes. Houve apresentaçãos dos membros e discussão dos primeiros detalhes do projeto.

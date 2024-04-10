@@ -1,4 +1,5 @@
 # Reunião 3
+
 ## 1. Introdução
 
 No dia 08/04 foi realizada uma reunião para apresentar o lean inception para os membros de MDS e o passo a passo para rodar o projeto.

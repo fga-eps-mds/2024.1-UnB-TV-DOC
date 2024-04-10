@@ -4,11 +4,11 @@
 
 Esse documento apresenta o código de conduta do projeto. Ele se baseia no [código de conduta do grupo do UnB-TV do semestre 2023.2](https://fga-eps-mds.github.io/2023.2-UnB-TV-DOC/#/./politicas/CODE_OF_CONDUCT), a fim de que o projeto continue tendo similaridades na parte de contribuição.
 
-## 2. Nossa promessa
+## 2. Nossa Promessa
 
 Com o objetivo de fomentar uma comunidade aberta e acolhedora, nós, como colaboradores e administradores deste projeto, comprometemo-nos a fazer a participação deste projeto uma experiência livre de assédio para todos, independentemente da aparência pessoal, deficiência, etnia, gênero, idade, identidade ou expressão de gênero, identidade ou orientação sexual, nacionalidade, nível de experiência, porte físico, raça ou religião.
 
-## 3. Nossos padrões
+## 3. Nossos Padrões
 
 Exemplos de comportamentos que contribuem a criar um ambiente positivo incluem:
 
@@ -26,7 +26,7 @@ Exemplos de comportamentos inaceitáveis por parte dos participantes incluem:
 - Publicar informação pessoal de outros sem permissão explícita, como, por exemplo, um endereço eletrônico ou residencial;
 - Qualquer outra forma de conduta que pode ser razoavelmente considerada inapropriada num ambiente profissional.
 
-## 4. Nossas responsabilidades
+## 4. Nossas Responsabilidades
 
 Os administradores do projeto são responsáveis por esclarecer os padrões de comportamento e é esperado deles que ajam de forma apropriada e justa em resposta a qualquer instância de comportamento inaceitável.
 
@@ -46,8 +46,9 @@ Administradores do projeto que não sigam ou não mantenham o Código de Conduta
 
 Este Código de Conduta é adaptado do [Contributor Covenant](https://www.contributor-covenant.org/), versão 1.4, disponível em [https://www.contributor-covenant.org/pt-br/version/1/4/code-of-conduct.html](https://www.contributor-covenant.org/pt-br/version/1/4/code-of-conduct/).
 
-## 8. Versionamento do documento
+## 8. Versionamento do Documento
 
 | Data | Versão | Descrição | Autor |
 | :-----: | :-------------: | :---------------: | :-: |
-| 31/03/2023 | 1.0 | Versão inicial com pontos 1 a 7 | Victor Hugo Oliveira Leão |
+| 31/03/2024 | 1.0 | Versão inicial com pontos 1 a 7 | [Victor Hugo Oliveira Leão](https://github.com/victorleaoo) |
+| 10/04/2024 | 1.1 | Ajuste na padronização do documento | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |

@@ -6,7 +6,7 @@ Esse documento apresenta as metodologias que serão trabalhadas pela equipe dura
 
 ## 2. Metodologias
 
-### 2.1 Scrum
+### 2.1. Scrum
 
 Scrum é um framework dentro do qual pessoas podem tratar e resolver problemas complexos e adaptativos, enquanto produtiva e criativamente entregam produtos com o mais alto valor possível. Ele se baseia em ciclos curtos chamados sprints.
 
@@ -20,7 +20,7 @@ Dessa forma, as práticas aplicadas do Scrum pela equipe são:
 
 Além disso, o pensamento de metodologia ágil com entregas incrementais constantes irá guiar a equipe durante todo o desenvolvimento.
 
-### 2.2 XP (Extreme Programming)
+### 2.2. XP (Extreme Programming)
 
 A Extreme Programming é uma metodologia de programação desenvolvida com a finalidade de otimizar as rotinas de times de desenvolvimento. O que abre espaço para que cada participante seja capaz de cumprir suas tarefas de um modo eficiente, sem gerar atrasos que possam encarecer o projeto.
 
@@ -30,7 +30,7 @@ Dessa forma, as práticas aplicadas da Extreme Programming pela equipe são:
 2. **Cliente Presente**: O cliente ou representante do cliente está envolvido no processo de desenvolvimento.
 3. **Refatoração**: Processo de analisar um algoritmo pouco legível com a finalidade de simplificá-lo, facilitando a sua leitura. Será reforçado pela equipe.
 
-### 2.3 Kanban
+### 2.3. Kanban
 
 O Kanban é um sistema de organização e administração de projetos que visa controlar fluxos de maneira eficiente. Por ser altamente adaptável à realidade de diferentes negócios, o Kanban é um método amplamente adotado por setores que vão desde logística à desenvolvimento de software.
 
@@ -51,7 +51,7 @@ Para o projeto, o quadro Kanban será feito e visualizado por meio da plataforma
 - **Done**: Tarefas da sprint já concluídas.
 - **Closed**: Para tarefas finalizadas, normalmente de sprints passadas já acabadas.
 
-### 2.4 Lean Inception
+### 2.4. Lean Inception
 
 O Lean Inception é um método de desenvolvimento de projetos ágeis que visa agilizar o processo de entrega do produto, garantindo maior assertividade e qualidade na sua entrega final.
 
@@ -77,8 +77,9 @@ Dessa forma, a equipe aplicou o Lean Inception com o PO, com as seguintes etapas
 
 > Wagner Hörlle: Lean Inception: O que é e como funciona esse método?. Disponível em: https://blog.csptecnologia.com/lean-inception/
 
-## 6. Versionamento do documento
+## 4. Versionamento do Documento
 
 | Data | Versão | Descrição | Autor |
 | :-----: | :-------------: | :---------------: | :-: |
-| 31/03/2023 | 1.0 | Versão inicial com pontos 1 a 3 | Victor Hugo Oliveira Leão |
+| 31/03/2024 | 1.0 | Versão inicial com pontos 1 a 3 | [Victor Hugo Oliveira Leão](https://github.com/victorleaoo) |
+| 10/04/2024 | 1.1 | Ajuste na padronização do documento | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |

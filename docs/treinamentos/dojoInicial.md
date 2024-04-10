@@ -4,14 +4,7 @@
 
 Visando o treinamento e preparação dos alunos da disciplina de Métodos de Desenvolvimento de Software nas tecnologias utilizadas no projeto, foi realizado um treinamento inicial no dia 4 de abril de 2024.
 
-Neste treinamento, foi apresentado brevemente o funcionamento das tecnologias que serão utilizadas no projeto: 
-* Linux
-* Docker
-* Git
-* Html
-* Css
-* Angular
-* FastAPI
+Neste treinamento, foi apresentado brevemente o funcionamento das tecnologias que serão utilizadas no projeto: Linux, Docker, Git, Html, Css, Angular, FastAPI.
 
 ## 2. Gravação do Treinamento
 

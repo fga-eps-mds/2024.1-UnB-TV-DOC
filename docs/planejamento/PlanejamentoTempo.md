@@ -26,8 +26,8 @@ Esse documento apenas "traduz" o cronograma da equipe para termos da equipe (Spr
 | Semana 16 - 01/07 | Entrega da Release 3 |
 | Semana 17 - 08/07 | Fim da disciplina |
 
-## 3. Versionamento do documento
+## 3. Versionamento do Documento
 
 | Data | Versão | Descrição | Autor |
 | :-----: | :-------------: | :---------------: | :-: |
-| 31/03/2023 | 1.0 | Versão inicial com pontos 1 a 2 | Victor Hugo Oliveira Leão | 
+| 31/03/2024 | 1.0 | Versão inicial com pontos 1 a 2 | [Victor Hugo Oliveira Leão](https://github.com/victorleaoo) | 

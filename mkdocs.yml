@@ -10,6 +10,7 @@ nav:
     - Políticas de Contribuição: contribuicao/PoliticasContribuicao.md
   - Treinamentos:
     - Quadro de Conhecimentos: treinamentos/QuadroConhecimento.md
+    - Dojo Inicial: treinamentos/dojoInicial.md
     - Dojo Git: treinamentos/dojoGit.md
   - Planejamento:
     - Plano de Tempo: planejamento/PlanejamentoTempo.md

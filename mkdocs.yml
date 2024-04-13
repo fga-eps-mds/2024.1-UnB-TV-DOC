@@ -19,11 +19,13 @@ nav:
   - Sprints:
     - Sprint Template: sprints/SprintTemplate/SprintTemplate.md
     - Pareamento Template: sprints/SprintTemplate/PareamentoTemplate.md
-  - Atas de Reuniões:  
-    - Reunião 1: atasReuniao/reuniao1.md
-    - Reunião 2: atasReuniao/reuniao2.md
-    - Reunião 3: atasReuniao/reuniao3.md
-    - Reunião 4: atasReuniao/reuniao4.md
+  - Atas de Reuniões:
+    - Reuniões da Equipe:
+      - Reunião 1: atasReuniao/reuniao1.md
+      - Reunião 2: atasReuniao/reuniao2.md
+      - Reunião 3: atasReuniao/reuniao3.md
+    - Reuniões com os Stakeholders:
+      - Reunião 4: atasReuniao/reuniao4.md
 
 theme:
   name: material

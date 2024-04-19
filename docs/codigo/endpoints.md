@@ -129,7 +129,7 @@ Esse documento apresenta a documentação de cada um dos endpoints do código fo
     - **Resposta**: 
         - Lista de usuários.
 
-2. read_user: */auth/{user_id}* => **GET**
+2. read_user: */users/{user_id}* => **GET**
     - **Input/Requisição**:
         - user_id;
         - token.
@@ -140,7 +140,7 @@ Esse documento apresenta a documentação de cada um dos endpoints do código fo
     - **Exceções**:
         - **USER_NOT_FOUND**: usuário não existir.
 
-3. read_user_by_email: */auth/email/{user_email}* => **GET**
+3. read_user_by_email: */users/email/{user_email}* => **GET**
     - **Input/Requisição**:
         - user_email;
         - token.
@@ -151,7 +151,7 @@ Esse documento apresenta a documentação de cada um dos endpoints do código fo
     - **Exceções**:
         - **USER_NOT_FOUND**: usuário não existir.
 
-4. partial_update_user: */{user_id}* => **PATCH**
+4. partial_update_user: */users/{user_id}* => **PATCH**
     - **Input/Requisição**:
         - user_id;
         - token;
@@ -165,7 +165,7 @@ Esse documento apresenta a documentação de cada um dos endpoints do código fo
         - **USER_NOT_FOUND**: usuário não existir;
         - **EMAIL_ALREADY_REGISTERED**: email já registrado.
 
-5. delete_user: */{user_id}* => **DELETE**
+5. delete_user: */users/{user_id}* => **DELETE**
     - **Input/Requisição**:
         - user_id;
         - token.
@@ -176,7 +176,7 @@ Esse documento apresenta a documentação de cada um dos endpoints do código fo
     - **Exceções**:
         - **USER_NOT_FOUND**: usuário não existir.
 
-6. update_role: */role/{user_id}* => **PATCH**
+6. update_role: */users/role/{user_id}* => **PATCH**
     - **Input/Requisição**:
         - user_id;
         - token.

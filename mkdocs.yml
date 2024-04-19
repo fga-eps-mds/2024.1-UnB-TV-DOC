@@ -12,6 +12,8 @@ nav:
     - Quadro de Conhecimentos: treinamentos/QuadroConhecimento.md
     - Dojo Inicial: treinamentos/dojoInicial.md
     - Dojo Git: treinamentos/dojoGit.md
+  - Código Fonte:
+    - Documentação dos Endpoints: codigo/endpoints.md
   - Planejamento:
     - Plano de Tempo: planejamento/PlanejamentoTempo.md
     - Plano de Comunicação: planejamento/PlanoComunicacao.md

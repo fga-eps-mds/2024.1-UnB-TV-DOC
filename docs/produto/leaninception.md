@@ -16,7 +16,7 @@ A visão do produto é a primeira etapa da Lean Inception e ajuda a trilhar o ca
 
 A Visão de Produto consolidada do grupo é:
 
-![Visão do Produto]()
+![Visão do Produto](https://github.com/fga-eps-mds/2024.1-UnB-TV-DOC/blob/main/docs/assets/visaoproduto.png?raw=true)
 
 ### 2.2 O Produto É - NÃO É - FAZ - NÃO FAZ
 
@@ -24,7 +24,7 @@ A atividade É - Não é - Faz - Não faz (ENFN, abreviado) busca classificaçõ
 
 O Produto É - NÃO É - FAZ - NÃO FAZ consolidado do grupo é:
 
-![]()
+![O Produto É - NÃO É - FAZ - NÃO FAZ](https://github.com/fga-eps-mds/2024.1-UnB-TV-DOC/blob/main/docs/assets/enaoefaznaofaz.png?raw=true)
 
 ### 2.3 Objetivos do Produto
 
@@ -34,7 +34,7 @@ Eles são separados em *clusters* (grupos), a fim de agrupar os objetivos que s�
 
 Os Objetivos do Produto consolidados do grupo é:
 
-![Objetivos do Produto]()
+![Objetivos do Produto](https://github.com/fga-eps-mds/2024.1-UnB-TV-DOC/blob/main/docs/assets/objetivos.png?raw=true)
 
 ### 2.4 Personas
 
@@ -42,9 +42,9 @@ Para efetivamente identificar as funcionalidades de um produto, é importante te
 
 Para o projeto foram definidas 2 personas distintas, mas que definem bem os usuários do produto:
 
-![Persona 1]()
+![Persona 1](https://github.com/fga-eps-mds/2024.1-UnB-TV-DOC/blob/main/docs/assets/persona1.png?raw=true)
 
-![Persona 2]()
+![Persona 2](https://github.com/fga-eps-mds/2024.1-UnB-TV-DOC/blob/main/docs/assets/persona2.png?raw=true)
 
 ### 2.5 Jornadas do Usuário
 
@@ -52,7 +52,7 @@ A jornada descreve o percurso de um usuário por uma sequência de passos dados 
 
 As Jornadas dos Usuários que são as personas do produto são:
 
-![Jornadas do Usuário]()
+![Jornadas do Usuário](https://github.com/fga-eps-mds/2024.1-UnB-TV-DOC/blob/main/docs/assets/jornadas.png?raw=true)
 
 ### 2.6 Brainstorm de Funcionalidades
 
@@ -60,7 +60,7 @@ Funcionalidade é a descrição de uma ação ou interação de um usuário com 
 
 A dinâmica do grupo foi revisar o brainstorm do semestre passado e adicionar novas funcionalidades recomendadas pelo grupo. Assim, pode-se consolidar as funcionalidades:
 
-![Brainstorm de Funcionalidades]()
+![Brainstorm de Funcionalidades](https://github.com/fga-eps-mds/2024.1-UnB-TV-DOC/blob/main/docs/assets/brainstorm.png?raw=true)
 
 ### 2.7 Revisão Técnica, de Negócio e de UX
 
@@ -70,7 +70,7 @@ Para esforço, valor de negócio e valor de UX (user experience em inglês, ou e
 
 A Revisão Técnica, de Negócio e de UX consolidada do grupo é:
 
-![Revisão Técnica, de Negócio e de UX]()
+![Revisão Técnica, de Negócio e de UX](https://github.com/fga-eps-mds/2024.1-UnB-TV-DOC/blob/main/docs/assets/revisao.png?raw=true)
 
 ### 2.8 Sequenciador
 
@@ -78,7 +78,7 @@ O objetivo desta etapa é priorizar as funcionalidades previamente identificadas
 
 O Sequenciador até o MVP (no Figma é possível ver completo) do grupo é:
 
-![Sequenciador]()
+![Sequenciador](https://github.com/fga-eps-mds/2024.1-UnB-TV-DOC/blob/main/docs/assets/sequenciador.png?raw=true)
 
 ### 2.9 Calculando Esforço, Tempo e Custo
 
@@ -94,7 +94,7 @@ Essa atividade segue os seguintes passos:
 
 O Cálculo de Esforço, Tempo e Custo (representa apenas 1 onda na imagem, no Figma é possível ver completo) do grupo é:
 
-![Calculando Esforço, Tempo e Custo]()
+![Calculando Esforço, Tempo e Custo](https://github.com/fga-eps-mds/2024.1-UnB-TV-DOC/blob/main/docs/assets/esforcotempocusto.png?raw=true)
 
 Pode-se considerar, então, que cada dupla de desenvolvedores (haverão 4) gasta aproximadamente 0,9 dias (7 horas) para desenvolver cada onda. Contudo, isso não leva em conta o tempo de estudo necessário, também, logo cada onda pode durar entre 1 sprint e 1 1/2 sprint (já que as 7 horas de desenvolvimento são distribuídas ao longo da semana).
 
@@ -112,7 +112,7 @@ No Canvas MVP, a equipe detalha o MVP (Mínimo Produto Viável) e as suas funcio
 
 O Canvas MVP do grupo é:
 
-![Canvas MVP]()
+![Canvas MVP](https://github.com/fga-eps-mds/2024.1-UnB-TV-DOC/blob/main/docs/assets/canvasmvp.png?raw=true)
 
 ## 3. Lean Inception Completa
 

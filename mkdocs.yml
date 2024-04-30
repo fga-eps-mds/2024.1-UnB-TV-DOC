@@ -14,10 +14,13 @@ nav:
     - Dojo Git: treinamentos/dojoGit.md
   - Código Fonte:
     - Documentação dos Endpoints: codigo/endpoints.md
+    - Rodar o Projeto Local (Docker): codigo/rodarprojeto.md
   - Planejamento:
     - Plano de Tempo: planejamento/PlanejamentoTempo.md
     - Plano de Comunicação: planejamento/PlanoComunicacao.md
-    # - Metodologias: planejamento/Metodologias.md
+    - Metodologias: planejamento/Metodologias.md
+  - Produto:
+    - Lean Inception: produto/leaninception.md
   - Sprints:
     - Sprint Template: sprints/SprintTemplate/SprintTemplate.md
     - Pareamento Template: sprints/SprintTemplate/PareamentoTemplate.md

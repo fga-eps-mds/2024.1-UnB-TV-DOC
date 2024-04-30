@@ -251,7 +251,7 @@ Esse documento apresenta a documentação de cada um dos endpoints do código fo
         - **INVALID_SCHEDULE_DAY**: dia passado for inválido;
         - **ERROR_RETRIEVING_SCHEDULE**: erro ao obter o cronograma.
 
-## 3. Versionamento do Documento
+## 5. Versionamento do Documento
 
 | Data | Versão | Descrição | Autor |
 | :-----: | :-------------: | :---------------: | :-: |

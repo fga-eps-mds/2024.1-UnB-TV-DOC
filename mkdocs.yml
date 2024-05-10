@@ -12,7 +12,7 @@ nav:
     - Quadro de Conhecimentos: treinamentos/QuadroConhecimento.md
     - Dojo Inicial: treinamentos/dojoInicial.md
     - Dojo Git: treinamentos/dojoGit.md
-    - Dojo Front: treinamentos/DojoBack.md
+    - Dojo BackEnd: treinamentos/DojoBack.md
   - Código Fonte:
     - Documentação dos Endpoints: codigo/endpoints.md
     - Rodar o Projeto Local (Docker): codigo/rodarprojeto.md

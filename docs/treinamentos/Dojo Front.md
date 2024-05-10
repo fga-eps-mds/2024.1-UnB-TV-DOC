@@ -6,9 +6,15 @@ Visando o treinamento e preparação dos alunos da disciplina de Métodos de Des
 
 ## 2. Gravação do Treinamento
 
-### 2. Treinamento Front
+### 2.1. Treinamento Front
 
-[![Treinamento 2.1](https://img.youtube.com/vi/soGV7i6mD1U/0.jpg)](https://youtu.be/6Emem3E0qqo)
+[![Treinamento 2.1](https://img.youtube.com/vi/6Emem3E0qqo/0.jpg)](https://youtu.be/6Emem3E0qqo)
+
+### 2.2. Material Adicional
+
+- https://medium.com/data-hackers/como-criar-a-sua-primeira-api-em-python-com-o-fastapi-50b1d7f5bb6d
+- https://kinsta.com/pt/blog/fastapi/
+- https://medium.com/@caioeduardojm4/iniciando-com-fastapi-postgresql-e-docker-3b7b413dbb21
 
 
 ## 3. Versionamento do Documento

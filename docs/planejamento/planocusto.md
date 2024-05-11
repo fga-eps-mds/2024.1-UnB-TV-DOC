@@ -52,4 +52,4 @@ A planilha abaixo mostra os custos por semana até a entrega do MVP e o fim do P
 
 | Data | Versão | Descrição | Autor |
 | :-----: | :-------------: | :---------------: | :-: |
-| 08/05/2024 | 1.0 | Versão inicial com pontos 1 a 4 | [João Pedro de Camargo Vaz](github.com/JoaoPedro0803) |
+| 11/05/2024 | 1.0 | Versão inicial com pontos 1 a 4 | [João Pedro de Camargo Vaz](github.com/JoaoPedro0803) e [Vinicius Assumpção de Araúj](github.com/viniman27) |

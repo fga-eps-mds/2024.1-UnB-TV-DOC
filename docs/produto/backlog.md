@@ -23,8 +23,8 @@ Dentro do Product Backlog do projeto, os itens são categorizados como **épicos
 
 | ID  | História de Usuário | Esforço (E) | Negócio ($) | UX (<3) |
 |-----|---------------------|-------------|-------------|---------|
-| US03   | Eu, como usuário, quero incluir vídeos nas sugestões de pauta, para contribuir na produção e divulgação de vídeos. | E $$ <3 | 3 | 3 |
-| US04   | Eu, como usuário, quero pesquisar vídeos por título, descrição e categoria, para encontrar conteúdos específicos. | EE $$$ <3 | 3 | 3 |
+| US03   | Eu, como usuário, quero incluir vídeos nas sugestões de pauta, para contribuir na produção e divulgação de vídeos. | E | $$ | <3<3 |
+| US04   | Eu, como usuário, quero pesquisar vídeos por título, descrição e categoria, para encontrar conteúdos específicos. | EE | $$$ | <3<3<3 |
 
 ### Épico 3: Apresentação de Dados e Estatísticas
 

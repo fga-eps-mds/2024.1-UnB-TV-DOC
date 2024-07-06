@@ -19,7 +19,7 @@ A meta principal dos testes não é necessariamente provar a total correção de
 
 Ferramenta muito utilizada para testagem do framework FastAPI. Tem como característica ser de fácil utilização. Será usado pela equipe para a realização de testes unitários no back-end.
 
-#### Testes Unitários - Pytest
+### Testes Unitários - Pytest
 
 Para assegurar a qualidade e a robustez do sistema, a equipe empregou o Pytest no backend para a execução de testes unitários. O Pytest, uma ferramenta de teste unitário gratuita e de código aberto, é focado na comunidade e adequado para o desenvolvimento em Python. Ele é amplamente utilizado para testar código Python e é compatível com várias ferramentas e frameworks populares no ecossistema Python.
 

@@ -20,7 +20,9 @@ nav:
     - Plano de Tempo: planejamento/PlanejamentoTempo.md
     - Plano de Comunicação: planejamento/PlanoComunicacao.md
     - Plano de Custos: planejamento/planocusto.md
+    - Plano de Qualidade: planejamento/PlanoQualidade.md
     - Metodologias: planejamento/Metodologias.md
+    
   - Produto:
     - Lean Inception: produto/leaninception.md
   - Sprints:

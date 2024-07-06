@@ -52,7 +52,7 @@ Dentro do Product Backlog do projeto, os itens são categorizados como **épicos
 | US18  | Eu, como usuário, quero a opção de pular para o próximo vídeo recomendado, para ter uma experiência contínua de visualização. | E | $ | <3<3 |
 | US19  | Eu, como usuário, quero configurar minhas preferências de reprodução automática, para controlar quando os vídeos recomendados devem ser reproduzidos automaticamente. | E | $ | <3<3 |
 
-### Épico 3: Recomendação de Conteúdo
+### Épico 5: Recomendação de Conteúdo
 
 | ID  | História de Usuário | Esforço (E) | Negócio ($) | UX (<3) |
 |-----|---------------------|-------------|-------------|---------|
@@ -60,7 +60,7 @@ Dentro do Product Backlog do projeto, os itens são categorizados como **épicos
 | US16  | Eu, como usuário, quero receber notificações de novos vídeos recomendados para mim, para estar sempre atualizado com novos conteúdos. | E | $$$ | <3<3<3 |
 | US17  | Eu, como usuário, quero configurar minhas preferências de notificação, para receber alertas apenas desejados. | E | $$$ | <3<3<3 |
 
-### Épico 4: Gerenciamento de Permissões
+### Épico 6: Gerenciamento de Permissões
 
 | ID  | História de Usuário | Esforço (E) | Negócio ($) | UX (<3) |
 |-----|---------------------|-------------|-------------|---------|

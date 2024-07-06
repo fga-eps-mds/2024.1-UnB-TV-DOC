@@ -25,6 +25,7 @@ nav:
   - Produto:
     - Lean Inception: produto/leaninception.md
     - Product Backlog: produto/backlog.md
+    - Estrutura Analítica do Projeto (EAP): produto/eap.md
   - Sprints:
     - Sprint Template: sprints/SprintTemplate/SprintTemplate.md
     - Pareamento Template: sprints/SprintTemplate/PareamentoTemplate.md

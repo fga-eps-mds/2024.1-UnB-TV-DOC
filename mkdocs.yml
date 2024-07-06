@@ -22,9 +22,9 @@ nav:
     - Plano de Custos: planejamento/planocusto.md
     - Plano de Qualidade: planejamento/PlanoQualidade.md
     - Metodologias: planejamento/Metodologias.md
-    
   - Produto:
     - Lean Inception: produto/leaninception.md
+    - Product Backlog: produto/backlog.md
   - Sprints:
     - Sprint Template: sprints/SprintTemplate/SprintTemplate.md
     - Pareamento Template: sprints/SprintTemplate/PareamentoTemplate.md

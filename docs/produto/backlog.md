@@ -1,45 +1,71 @@
-# Backlog do Produto
+# Product Backlog
 
-### Épico 1: Gerenciamento de Dados e Estatísticas
+## 1. Introdução
 
-| ID  | História de Usuário | Esforço (E) | Negócio ($) | UX (<3) |
-|-----|---------------------|-------------|-------------|---------|
-| 1   | Eu, como administrador, quero obter dados de visualizações de vídeos, para analisar o engajamento dos usuários. | EE $$$ <3 | 3 | 3 |
-| 2   | Eu, como administrador, quero obter dados de visualizações por categorias, para entender quais tópicos são mais populares. | EE $$$ <3 | 3 | 3 |
-| 5   | Eu, como administrador, quero ver as estatísticas de visualizações de cada vídeo, para monitorar o desempenho. | EE $$$ <3 <3 <3 | 3 | 3 |
-| 6   | Eu, como administrador, quero ver as estatísticas de visualizações por categoria, para monitorar o desempenho por tópico. | EE $$$ <3 <3 <3 | 3 | 3 |
-| 7   | Eu, como administrador, quero ver as estatísticas de visualizações por localidade, para monitorar o desempenho por local. | EE $$$ <3 <3 <3 | 3 | 3 |
+O Product Backlog é uma lista ordenada de tudo que é conhecido como necessário para o projeto de um produto (nesse caso, até o MVP). É um documento constantemente atualizado que reflete as necessidades do produto conforme ele evolui. O backlog é mantido pelo PO e é fundamental para o planejamento e priorização do trabalho da equipe de desenvolvimento.
 
-### Épico 2: Pesquisa e Navegação de Conteúdo
+Dentro do Product Backlog do projeto, os itens são categorizados como **épicos** e **histórias de usuário**:
 
-| ID  | História de Usuário | Esforço (E) | Negócio ($) | UX (<3) |
-|-----|---------------------|-------------|-------------|---------|
-| 3   | Eu, como usuário, quero incluir vídeos nas sugestões de pauta, para contribuir na produção e divulgação de vídeos. | E $$ <3 | 3 | 3 |
-| 4   | Eu, como usuário, quero pesquisar vídeos por título, descrição e categoria, para encontrar conteúdos específicos. | EE $$$ <3 | 3 | 3 |
+1. **Épicos**: São grandes corpos de trabalho que podem ser divididos em várias histórias de usuário. Um épico fornece uma visão ampla do que precisa ser desenvolvido, mas sem muitos detalhes.
 
-### Épico 3: Experiência do Usuário (UX)
+2. **Histórias de usuário**: São descrições simples de uma funcionalidade do ponto de vista do usuário final. Elas são escritas de forma a capturar quem é o usuário, o que ele quer e por quê. Uma história de usuário normalmente segue o formato: "Como [tipo de usuário], eu quero [objetivo] para [benefício]."
+
+## 2. Product Backlog até o MVP
+
+### Épico 1: Obtenção de Dados
 
 | ID  | História de Usuário | Esforço (E) | Negócio ($) | UX (<3) |
 |-----|---------------------|-------------|-------------|---------|
-| 8   | Eu, como usuário, quero favoritar um vídeo diretamente da página de visualização, para acessá-lo facilmente depois. | E $$ <3 | 3 | 3 |
-| 9   | Eu, como usuário, quero ver minha lista de vídeos favoritos em um único lugar, para organizar meu conteúdo preferido. | E $$ <3 | 3 | 3 |
-| 11  | Eu, como usuário, quero ver o histórico de vídeos que assisti recentemente, para encontrar facilmente vídeos que vi anteriormente. | EE $$ <3 <3 | 3 | 3 |
-| 12  | Eu, como usuário, quero configurar minhas preferências de histórico, para gerenciar meu histórico. | EE $$ <3 <3 | 3 | 3 |
-| 13  | Eu, como usuário, quero marcar vídeos para assistir mais tarde diretamente da página de visualização, para poder guardar uma playlist de vídeos para ver depois. | E $$ <3 <3 | 3 | 3 |
-| 14  | Eu, como usuário, quero acessar minha lista de vídeos para assistir mais tarde, para poder encontrar facilmente os vídeos que marquei para ver depois. | E $$ <3 <3 | 3 | 3 |
+| US01   | Eu, como administrador, quero obter dados de visualizações de vídeos, para analisar o engajamento dos usuários. | EE | $$$ | <3 |
+| US02   | Eu, como administrador, quero obter dados de visualizações por categorias, para entender quais tópicos são mais populares. | EE | $$$ | <3 |
 
-### Épico 4: Recomendação de Conteúdo
+### Épico 2: Busca e Sugestão de Conteúdo
 
 | ID  | História de Usuário | Esforço (E) | Negócio ($) | UX (<3) |
 |-----|---------------------|-------------|-------------|---------|
-| 15  | Eu, como usuário, quero ter uma lista de recomendações de vídeos semelhantes aos vistos anteriormente, para visualizar conteúdos relacionados. | EE $$$ <3 <3 <3 | 3 | 3 |
-| 16  | Eu, como usuário, quero receber notificações de novos vídeos recomendados para mim, para estar sempre atualizado com novos conteúdos. | EE $$$ <3 <3 <3 | 3 | 3 |
-| 17  | Eu, como usuário, quero configurar minhas preferências de notificação, para receber alertas apenas desejados. | EE $$$ <3 <3 <3 | 3 | 3 |
-| 18  | Eu, como usuário, quero a opção de pular para o próximo vídeo recomendado, para ter uma experiência contínua de visualização. | E $$ <3 <3 | 3 | 3 |
-| 19  | Eu, como usuário, quero configurar minhas preferências de reprodução automática, para controlar quando os vídeos recomendados devem ser reproduzidos automaticamente. | E $$ <3 <3 | 3 | 3 |
+| US03   | Eu, como usuário, quero incluir vídeos nas sugestões de pauta, para contribuir na produção e divulgação de vídeos. | E $$ <3 | 3 | 3 |
+| US04   | Eu, como usuário, quero pesquisar vídeos por título, descrição e categoria, para encontrar conteúdos específicos. | EE $$$ <3 | 3 | 3 |
 
-### Épico 5: Gerenciamento de Permissões
+### Épico 3: Apresentação de Dados e Estatísticas
 
 | ID  | História de Usuário | Esforço (E) | Negócio ($) | UX (<3) |
 |-----|---------------------|-------------|-------------|---------|
-| 10  | Eu, como administrador, quero gerenciar cargos de co-administradores, para delegar responsabilidades de gerenciamento. | EE $$$ <3 <3 <3 | 3 | 3 |
+| US05   | Eu, como administrador, quero ver as estatísticas de visualizações de cada vídeo, para monitorar o desempenho. | EE | $$$ | <3<3<3 |
+| US06   | Eu, como administrador, quero ver as estatísticas de visualizações por categoria, para monitorar o desempenho por tópico. | EE | $$$ | <3<3<3 |
+| US07   | Eu, como administrador, quero ver as estatísticas de visualizações por localidade, para monitorar o desempenho por local. | EE | $$$ | <3<3<3 |
+
+### Épico 3: Interação com Vídeos
+
+| ID  | História de Usuário | Esforço (E) | Negócio ($) | UX (<3) |
+|-----|---------------------|-------------|-------------|---------|
+| US08   | Eu, como usuário, quero favoritar um vídeo diretamente da página de visualização, para acessá-lo facilmente depois. | E | $$ | <3<3 |
+| US09   | Eu, como usuário, quero ver minha lista de vídeos favoritos em um único lugar, para organizar meu conteúdo preferido. | E | $$ | <3<3 |
+| US13  | Eu, como usuário, quero marcar vídeos para assistir mais tarde diretamente da página de visualização, para poder guardar uma playlist de vídeos para ver depois. | E | $ | <3<3 |
+| US14  | Eu, como usuário, quero acessar minha lista de vídeos para assistir mais tarde, para poder encontrar facilmente os vídeos que marquei para ver depois. | E | $ | <3<3 |
+
+### Épico 4: Rastreabilidade
+
+| ID  | História de Usuário | Esforço (E) | Negócio ($) | UX (<3) |
+|-----|---------------------|-------------|-------------|---------|
+| US11  | Eu, como usuário, quero ver o histórico de vídeos que assisti recentemente, para encontrar facilmente vídeos que vi anteriormente. | EE | $$ | <3<3 |
+| US12  | Eu, como usuário, quero configurar minhas preferências de histórico, para gerenciar meu histórico. | EE | $$ | <3<3 |
+| US18  | Eu, como usuário, quero a opção de pular para o próximo vídeo recomendado, para ter uma experiência contínua de visualização. | E | $ | <3<3 |
+| US19  | Eu, como usuário, quero configurar minhas preferências de reprodução automática, para controlar quando os vídeos recomendados devem ser reproduzidos automaticamente. | E | $ | <3<3 |
+
+### Épico 3: Recomendação de Conteúdo
+
+| ID  | História de Usuário | Esforço (E) | Negócio ($) | UX (<3) |
+|-----|---------------------|-------------|-------------|---------|
+| US15  | Eu, como usuário, quero ter uma lista de recomendações de vídeos semelhantes aos vistos anteriormente, para visualizar conteúdos relacionados. | EE | $$$ | <3<3<3 |
+| US16  | Eu, como usuário, quero receber notificações de novos vídeos recomendados para mim, para estar sempre atualizado com novos conteúdos. | E | $$$ | <3<3<3 |
+| US17  | Eu, como usuário, quero configurar minhas preferências de notificação, para receber alertas apenas desejados. | E | $$$ | <3<3<3 |
+
+### Épico 4: Gerenciamento de Permissões
+
+| ID  | História de Usuário | Esforço (E) | Negócio ($) | UX (<3) |
+|-----|---------------------|-------------|-------------|---------|
+| US10  | Eu, como administrador, quero gerenciar cargos de co-administradores, para delegar responsabilidades de gerenciamento. | EE | $$ | <3<3 |
+
+| Data | Versão | Descrição | Autor |
+| :-----: | :-------------: | :---------------: | :-: |
+| 06/07/2024 | 1.0 | Versão inicial com pontos 1 a 2 | [Victor Hugo Oliveira Leão](https://github.com/victorleaoo) | 

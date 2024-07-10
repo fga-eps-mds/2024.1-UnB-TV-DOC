@@ -63,16 +63,76 @@ Para a classificação dos riscos, foram consideradas as seguintes categorias:
 
 | Risco | Descrição | Categoria |
 | :---: | :---: | :---: |
+| R01 | Indisponibilidade do cliente | Externo |
+| R02 | Falha de equipamento | Externo |
+| R03 | Problemas de saúde de algum integrante da equipe | Externo |
+| R04 | Falta de participação de algum integrante do projeto | Gerencial |
+| R05 | Falta de integração da equipe | Gerencial |
+| R06 | Atraso na disponibilização de funcionalidades | Gerencial |
+| R07 | Falta de disponibilização de releases para o cliente testar | Gerencial |
+| R08 | Membro da equipe sobrecarregado | Gerencial |
+| R09 | Baixa produtividade da equipe | Gerencial |
+| R10 | Falta de validação de artefatos com cliente | Gerencial |
+| R11 | Falta de comunicação | Organizacional |
+| R12 | Saída de algum integrante do projeto | Organizacional |
+| R13 | Divergência nos horários disponíveis dos integrantes | Organizacional |
+| R14 | Dependência entre atividades | Organizacional |
+| R15 | Falta de treinamento adequado para a equipe | Organizacional | 
+| R16 | Dificuldade com as tecnologias do projeto | Técnico |
+| R17 | Falta de entendimento da arquitetura do projeto | Técnico |
+| R18 | Baixa qualidade do código fonte | Técnico |
+| R19 | Problemas na configuração do ambiente de desenvolvimento | Técnico |
+| R20 | Não entendimento da funcionalidade planejada | Técnico |
 
 ### 3.2 Causa e Consequência dos Riscos
 
 | Risco | Causa | Consequência |
 | :---: | :---: | :---: |
+| R01 | Falta de envolvimento do cliente e conflitos de agenda | Aumento do retrabalho e dificuldades para validações |
+| R02 | Desgaste natural e falta de manutenção | Aumento dos custos e atraso nas entregas |
+| R03 | Doenças/falta de cuidado com a saúde | Sobrecarga dos outros integrantes |
+| R04 | Baixa motivação do integrante | Aumento no volume de atividades acumuladas |
+| R05 | Falta de comprometimento e comunicação entre os membros | Falta de alinhamento por parte da equipe |
+| R06 | Falta de planejamento e estimativas incorretas | Alteração do cronograma e insatisfação do cliente |
+| R07 | Problemas com o processo de disponibilização do ambiente | Aumento do risco de erros na implementação e insatisfação do cliente |
+| R08 | Divisão de tarefas mal feita e falta de participação de outros membros | Conhecimento técnico concentrado em poucas pessoas |
+| R09 | Motivação baixa ou falta de clareza nas tarefas | Atrasos no cronograma do projeto e aumento de esforço necessário |
+| R10 | Falta de processo estruturado para validação | Entregas que não atendem às expectativas do cliente |
+| R11 | Falta de clareza nas responsabilidades e canais de comunicação | Desalinhamento entre as partes interessadas |
+| R12 | Problemas pessoais e sobrecarga de trabalho	 | Redução do potencial de entrega da equipe |
+| R13 | Necessidade de realizar outras disciplinas e atividades | Problemas de integração e baixa participação nas reuniões |
+| R14 | Falta de coordenação entre as atividades do projeto | Bloqueio no progresso de outras atividades |
+| R15 | Falta de planejamento de tempo para treinamento | Baixa produtividade e qualidade do trabalho |
+| R16 | Falta de experiência com as tecnologias | Baixa qualidade do produto e atraso nas entregas |
+| R17 | Documentação incompleta ou falta de explicação clara da arquitetura | Implementação incorreta ou inconsistente |
+| R18 | Falta de revisões e de conhecimento técnico | Aumento da presença de bugs e dificuldade de manutenção do código |
+| R19 | Configurações complexas ou falta de documentação adequada | Atrasos no início do desenvolvimento e inconsistências no ambiente de trabalho |
+| R20 | Requisitos mal definidos ou comunicação ineficaz com o cliente | Desenvolvimento de funcionalidades incorretas ou incompletas |
 
 ### 3.3 Prevenção e Ação para os Riscos
 
 | Risco | Prevenção | Ação |
 | :---: | :---: | :---: |
+| R01 | Entrar em acordo sobre data e horário das reuniões | Solicitar ao cliente reagendamento da reunião |
+| R02 | Realizar manutenção periódica do equipamento | Providenciar conserto ou comprar novo equipamento |
+| R03 | Seguir as recomendações de saúde | Reavaliar distribuição das tarefas |
+| R04 | Manter todos os integrantes ativos e motivados | Compreender o problema que o integrante está tendo e ajudá-lo |
+| R05 | Participação de todos nas reuniões da sprint | Remarcar data e horário das reuniões |
+| R06 | Planejamento realista da sprint e das estimativas | Reavaliar as atividades e estimativas para a sprint |
+| R07 | Preparar o ambiente para o cliente testar com antecedência | Reavaliar o processo de disponibilização do ambiente |
+| R08 | Divisão equivalente das tarefas entre os integrantes | Reavaliar a distribuição das tarefas |
+| R09 | Estabelecer metas claras e proporcionar feedback regular | Realizar sessões de alinhamento e motivação |
+| R10 | Agendar revisões regulares com o cliente | Realizar uma análise de gap e retrabalho |
+| R11 | Implementar reuniões de status regulares | Organizar uma reunião de emergência para realinhamento |
+| R12 | Manter todos motivados e organizar a grade horária | Reavaliar a distribuição e o planejamento das atividades do projeto |
+| R13 | Elaboração de uma planilha de horários | Definição de pares para a realização das atividades |
+| R14 | Elaborar priorização correta das atividades | Rever priorização das atividades |
+| R15 | Incorporar sessões de treinamento no cronograma do projeto | Organizar sessões de treinamento imediatas e focadas |
+| R16 | Realização de treinamentos | Programação em pares para compartilhar o conhecimento |
+| R17 | Realizar sessões de treinamento sobre a arquitetura | Agendar revisões de arquitetura e ajustes necessários |
+| R18 | Alta cobertura de testes e lint | Identificar quais componentes estão reduzindo a qualidade e refatorá-los |
+| R19 | Documentar e automatizar a configuração do ambiente | Implementar uma força-tarefa para resolver problemas de configuração |
+| R20 | Realizar sessões de esclarecimento e validação de requisitos com o cliente | Organizar reuniões de revisão e correção de curso |
 
 ## 4. Monitoramento dos Riscos
 
@@ -93,3 +153,4 @@ O acompanhamento dos riscos é essencial durante o desenvolvimento de um projeto
 | Data | Versão | Descrição | Autor |
 | :-----: | :-------------: | :---------------: | :-: |
 | 07/07/2024 | 1.0 | Esqueleto inicial do documento | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |
+| 09/07/2024 | 1.1 | Preenchimento das tabelas de risco | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |

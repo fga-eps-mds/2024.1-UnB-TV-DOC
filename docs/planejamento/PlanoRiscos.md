@@ -138,6 +138,8 @@ Para a classificação dos riscos, foram consideradas as seguintes categorias:
 
 O acompanhamento dos riscos é essencial durante o desenvolvimento de um projeto de software, uma vez que os riscos não são estáticos e podem mudar de nível ao longo do projeto.
 
+<iframe width="760" height="600" src="https://docs.google.com/spreadsheets/d/1NLH8H7ECiTWzIq66lVdNaiALd_tqS5pIDHAtX4Pn0sg/edit?gid=0#gid=0"></iframe>
+
 ## 5. Referências
 
 > [1] TOTVS. Plano de Gerenciamento de Riscos: como elaborar?. Dosponível em: https://www.totvs.com/blog/negocios/plano-de-gerenciamento-de-riscos-2/.
@@ -154,3 +156,4 @@ O acompanhamento dos riscos é essencial durante o desenvolvimento de um projeto
 | :-----: | :-------------: | :---------------: | :-: |
 | 07/07/2024 | 1.0 | Esqueleto inicial do documento | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |
 | 09/07/2024 | 1.1 | Preenchimento das tabelas de risco | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |
+| 10/07/2024 | 1.2 | Adicionando planilha de gerenciamento de riscos | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |

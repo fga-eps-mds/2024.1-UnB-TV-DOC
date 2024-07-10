@@ -138,7 +138,7 @@ Para a classificação dos riscos, foram consideradas as seguintes categorias:
 
 O acompanhamento dos riscos é essencial durante o desenvolvimento de um projeto de software, uma vez que os riscos não são estáticos e podem mudar de nível ao longo do projeto.
 
-<iframe width="760" height="600" src="https://docs.google.com/spreadsheets/d/1NLH8H7ECiTWzIq66lVdNaiALd_tqS5pIDHAtX4Pn0sg/edit?gid=0#gid=0"></iframe>
+<iframe width="760" height="600" src="https://docs.google.com/spreadsheets/d/e/1NLH8H7ECiTWzIq66lVdNaiALd_tqS5pIDHAtX4Pn0sg/pubhtml?widget=true&headers=false"></iframe>
 
 ## 5. Referências
 

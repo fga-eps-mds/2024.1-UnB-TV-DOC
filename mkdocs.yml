@@ -13,6 +13,7 @@ nav:
     - Dojo Inicial: treinamentos/dojoInicial.md
     - Dojo Git: treinamentos/dojoGit.md
     - Dojo BackEnd: treinamentos/DojoBack.md
+    - Dojo FrontEnd: treinamentos/dojoFront.md
   - Código Fonte:
     - Documentação dos Endpoints: codigo/endpoints.md
     - Rodar o Projeto Local (Docker): codigo/rodarprojeto.md
@@ -35,6 +36,7 @@ nav:
       - Reunião 1: atasReuniao/reuniao1.md
       - Reunião 2: atasReuniao/reuniao2.md
       - Reunião 3: atasReuniao/reuniao3.md
+      - Reunião 7: atasReuniao/reuniao7.md
     - Reuniões com os Stakeholders:
       - Reunião 4: atasReuniao/reuniao4.md
       - Reunião 5: atasReuniao/reuniao5.md

@@ -138,13 +138,13 @@ Para a classificação dos riscos, foram consideradas as seguintes categorias:
 
 O acompanhamento dos riscos é essencial durante o desenvolvimento de um projeto de software, uma vez que os riscos não são estáticos e podem mudar de nível ao longo do projeto.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTMc6SGIhDpfky8xMTq3BT4trswFmxIiTlCter2n8IeGnyXmHpiUVSj5Iqh5eJHdwe_q0YVnzvMdnAr/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="700" height="760" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTMc6SGIhDpfky8xMTq3BT4trswFmxIiTlCter2n8IeGnyXmHpiUVSj5Iqh5eJHdwe_q0YVnzvMdnAr/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ## 5. Gráfico de Pontuação por Sprint
 
 O gráfico abaixo mostra a pontuação total de Probabilidade x Impacto a cada sprint. Nele é possível notar que inicialmente a pontuação é baixa, por se tratar da Sprint 0. A partir da Sprint 1, onde começa de fato o trabalho de desenvolvimento do projeto, a pontuação apresentou um pico inicial e, após isso, um decréscimo até a sprint 6. Na última sprint, observamos um aumento, justamente por alguns riscos que aumentaram por ser perto da entrega do MVP e por se aproximar do final do semestre.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTMc6SGIhDpfky8xMTq3BT4trswFmxIiTlCter2n8IeGnyXmHpiUVSj5Iqh5eJHdwe_q0YVnzvMdnAr/pubhtml?gid=758577912&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="600" height="480" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTMc6SGIhDpfky8xMTq3BT4trswFmxIiTlCter2n8IeGnyXmHpiUVSj5Iqh5eJHdwe_q0YVnzvMdnAr/pubhtml?gid=758577912&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ## 6. Referências
 

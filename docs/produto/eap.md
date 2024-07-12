@@ -10,7 +10,7 @@ A EAP organiza e define todo o escopo do projeto, refletindo o trabalho descrito
 
 Segue o EAP do Projeto UnB-TV.
 
-![EAP](https://raw.githubusercontent.com/fga-eps-mds/2024.1-UnB-TV-DOC/main/docs/assets/eap.png)
+![EAP](https://raw.githubusercontent.com/fga-eps-mds/2024.1-UnB-TV-DOC/main/docs/assets/eap_2.png)
 
 ## 3. Referências
 

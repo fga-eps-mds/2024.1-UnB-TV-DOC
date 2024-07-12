@@ -138,9 +138,15 @@ Para a classificação dos riscos, foram consideradas as seguintes categorias:
 
 O acompanhamento dos riscos é essencial durante o desenvolvimento de um projeto de software, uma vez que os riscos não são estáticos e podem mudar de nível ao longo do projeto.
 
-<iframe width="760" height="600" src="https://docs.google.com/spreadsheets/d/e/1NLH8H7ECiTWzIq66lVdNaiALd_tqS5pIDHAtX4Pn0sg/pubhtml?widget=true&headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTMc6SGIhDpfky8xMTq3BT4trswFmxIiTlCter2n8IeGnyXmHpiUVSj5Iqh5eJHdwe_q0YVnzvMdnAr/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
-## 5. Referências
+## 5. Gráfico de Pontuação por Sprint
+
+O gráfico abaixo mostra a pontuação total de Probabilidade x Impacto a cada sprint. Nele é possível notar que inicialmente a pontuação é baixa, por se tratar da Sprint 0. A partir da Sprint 1, onde começa de fato o trabalho de desenvolvimento do projeto, a pontuação apresentou um pico inicial e, após isso, um decréscimo até a sprint 6. Na última sprint, observamos um aumento, justamente por alguns riscos que aumentaram por ser perto da entrega do MVP e por se aproximar do final do semestre.
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTMc6SGIhDpfky8xMTq3BT4trswFmxIiTlCter2n8IeGnyXmHpiUVSj5Iqh5eJHdwe_q0YVnzvMdnAr/pubhtml?gid=758577912&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+## 6. Referências
 
 > [1] TOTVS. Plano de Gerenciamento de Riscos: como elaborar?. Dosponível em: https://www.totvs.com/blog/negocios/plano-de-gerenciamento-de-riscos-2/.
 
@@ -150,10 +156,11 @@ O acompanhamento dos riscos é essencial durante o desenvolvimento de um projeto
 
 > [3] Revista de Administração da Universidade Federal de Santa Maria. Gerenciamento de riscos técnicos: o caso de uma empresa de desenvolvimento de softwares. Disponível em: https://www.redalyc.org/journal/2734/273445843005/html/.
 
-## 6. Versionamento do Documento
+## 7. Versionamento do Documento
 
 | Data | Versão | Descrição | Autor |
 | :-----: | :-------------: | :---------------: | :-: |
 | 07/07/2024 | 1.0 | Esqueleto inicial do documento | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |
 | 09/07/2024 | 1.1 | Preenchimento das tabelas de risco | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |
 | 10/07/2024 | 1.2 | Adicionando planilha de gerenciamento de riscos | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |
+| 12/07/2024 | 1.3 | Adicionando gráfico de pontuação por sprint e ajustando tabela de monitoramento | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |

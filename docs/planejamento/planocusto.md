@@ -16,7 +16,7 @@ Todos os custos foram pesquisados e embasados em fontes que podem ser encontrada
 
 De acordo com uma notícia do O Globo, um aluno em universidade federal custava por mês, em 2016, R$ 3.129,00. Ajustando esse valor, por meio da [calculadora do cidadão do BCB](https://www3.bcb.gov.br/CALCIDADAO/publico/corrigirPorIndice.do?method=corrigirPorIndice), podemos chegar nesse valor, em 2024, como R$ 4.736,62 ou R$ 56.839,44 por ano.
 
-Considerando que o curso de Engenharia de Software da Universidade de Brasília possui 232 créditos (15 horas-aula = 1 crédito), em um periodo de 10 semestres, é possível chegar no resultado de uma média de, aproximadamente, 46 créditos ou 690 horas por ano. Assim, chegamos ao valor de R$ 82,38 por hora para um estudante. Considerando que para cada semana do projeto serão despendidas, aproximadamente, 4 horas de foco para a disciplina de EPS/MDS, o valor individual semanal por membro é de **R$ 329,50**. Logo, o valor total pode semana de 12 membros é de **R$ 3.954,05**.
+Considerando que o curso de Engenharia de Software da Universidade de Brasília possui 232 créditos (15 horas-aula = 1 crédito), em um periodo de 10 semestres, é possível chegar no resultado de uma média de, aproximadamente, 46 créditos ou 690 horas por ano. Assim, chegamos ao valor de R$ 82,38 por hora para um estudante. Considerando que para cada semana do projeto serão despendidas, aproximadamente, 13 horas de foco para a disciplina de EPS/MDS, o valor individual semanal por membro é de **R$ 1.070,94**. Logo, o valor total por semana de 12 membros é de **R$ 12.851,28**.
 
 ### 2.2 Equipamento (Ferramentas)
 
@@ -53,3 +53,4 @@ A planilha abaixo mostra os custos por semana até a entrega do MVP e o fim do P
 | Data | Versão | Descrição | Autor |
 | :-----: | :-------------: | :---------------: | :-: |
 | 11/05/2024 | 1.0 | Versão inicial com pontos 1 a 4 | [João Pedro de Camargo Vaz](github.com/JoaoPedro0803) e [Vinicius Assumpção de Araúj](github.com/viniman27) |
+| 13/07/2024 | 1.1 | Atualização do custo com horário semanal de trabalho | [Victor Hugo Oliveira Leão](https://github.com/victorleaoo) |

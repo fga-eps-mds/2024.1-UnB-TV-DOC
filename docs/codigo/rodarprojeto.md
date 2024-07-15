@@ -4,7 +4,7 @@
 
 Esse é um tutorial com passo a passo de como rodar o projeto localmente para os desenvolvedores. Basicamente, todos os módulos do projeto possuem um Docker para tornar possível o deploy local, mas, também, configurações individuais.
 
-**Importante**: os arquivos .env tem atributos entre {}, quer dizer que eles são confidenciais, logo devem ser obtidos de forma própria, caso não seja integrante da disciplina no semestre. Caso seja, olhe o discord, pois lá serão postados os arquivos .env com os conteúdos.
+**Importante**: os arquivos .env tem atributos entre {}, quer dizer que eles são confidenciais, logo devem ser obtidos de forma própria, caso não seja integrante da disciplina no semestre. Caso seja, entre em contato com um estudante de EPS.
 
 ## 2. Módulo Users
 
@@ -14,7 +14,7 @@ Passo a Passo:
 2. Crie um arquivo .env com o seguinte conteúdo:
 
 ```
-SECRET=sH8kBipqhPYcb!XN3MfVZcP2eVarfrj$xwBdfvZaXFKHQSSt
+SECRET={secret_alg}
 ALGORITHM=HS256
 ACCESS_TOKEN_EXPIRE_MINUTES=999999
 
@@ -74,6 +74,28 @@ POSTGRES_PORT=5432
 ## 5. Módulo FrontEnd
 
 1. Em uma pasta, faça o clone do repositório: `git clone git@github.com:fga-eps-mds/2024.1-UnB-TV-Frontend.git` e entre na pasta do repositório: `cd 2024.1-UnB-TV-Frontend/`;
-2. Atualize a seguinte dependência no arquivo *package.json*: `"@abacritt/angularx-social-login": "^1.0.0"`;
+2. Crie um arquivo .env com o seguinte conteúdo:
+
+```
+videoAPIURL="http://localhost:8001/api"
+usersAPIURL="http://localhost:8000/api"
+adminAPIURL="http://localhost:8080/api"
+
+EDUPLAY_CLIENT_KEY={eduplay_token}
+```
+
 3. Rode o Docker: `docker compose up --build`
-4. Confira se a aplicação subiu em: *localhost:8001*.
+4. Confira se a aplicação subiu em: *localhost:4200*.
+
+## 6. Dicas
+
+Comandos para limpar o Docker, interessante de usar caso enfrente algum erro:
+
+- ```docker rm -vf $(docker ps -aq)```
+- ```docker rmi -f $(docker images -aq)```
+
+## 7. Versionamento do Documento
+
+| Data | Versão | Descrição | Autor |
+| :-----: | :-------------: | :---------------: | :-: |
+| 15/07/2023 | 1.0 | Versão inicial com pontos 1 a 6 | [Victor Hugo Oliveira Leão](https://github.com/victorleaoo) |

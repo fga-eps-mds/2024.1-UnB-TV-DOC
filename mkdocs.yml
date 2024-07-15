@@ -16,6 +16,7 @@ nav:
     - Dojo FrontEnd: treinamentos/dojoFront.md
   - Código Fonte:
     - Documentação dos Endpoints: codigo/endpoints.md
+    - Arquitetura do projeto: codigo/arquitetura.md
     - Rodar o Projeto Local (Docker): codigo/rodarprojeto.md
   - Planejamento:
     - Plano de Tempo: planejamento/PlanejamentoTempo.md

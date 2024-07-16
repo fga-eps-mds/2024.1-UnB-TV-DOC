@@ -34,7 +34,7 @@ No projeto, o PostgreSQL é utilizado como o sistema de gerenciamento de banco d
 
 -   **Frontend:** Responsável por todas as interações do usuário com o sistema, este serviço é o meio pelo qual o usuário pode acessar visualmente as funcionalidades oferecidas no contexto da aplicação. Exemplo: Logar por redes sociais ou email, visualizar o católogo dos vídeos com os programas, sugerir pauta, assistir ao canal ao vivo.
 
--   **VideoService:** Microserviço responsável pela grade de programação dos programas (a funcionalidade de comentários foi retirada).
+-   **VideoService:** Microserviço responsável pelas interações entre usuário e vídeo, além do módulo de recomendações. Também é responsável pela grade de programação dos programas (a funcionalidade de comentários foi retirada).
 
 -   **Users:** Microsserviço responsável pela gestão dos usuários da aplicação.
 

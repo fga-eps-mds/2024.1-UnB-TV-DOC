@@ -94,4 +94,5 @@ Geekhunter. O que são microsserviços e como funcionam?. Disponível em: https:
 | **Data**   | **Descrição**                                    | **Autore(es)**    |
 | ---------- | ------------------------------------------------ | ----------------- |
 | 15/07/2024 | Adição inicial do documento                              | [Vinícius Assumpção de araújo](https://github.com/viniman27)          |
-| 16/07/2023 | Adição do diagrama de arquitetura e implantação | [Victor Hugo Oliveira Leão](https://github.com/victorleaoo) |
+| 16/07/2024 | Adição do diagrama de arquitetura e implantação | [Victor Hugo Oliveira Leão](https://github.com/victorleaoo) |
+| 16/07/2024 | Adição do DER e do DLD | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |

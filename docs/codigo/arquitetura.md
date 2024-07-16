@@ -71,14 +71,17 @@ Composto por dois tipos de diagramas:
 
 O diagrama de entidade-relacionamento serve como uma ferramenta gráfica para modelar bancos de dados, proporcionando uma visão clara e abrangente da estrutura do banco de dados. Este diagrama é útil para equipes de desenvolvimento, pois descreve visualmente os objetos (entidades) que fazem parte do projeto, incluindo suas características específicas (atributos) e as formas como se relacionam entre si.
 
-![Diagrama Entidade Relacionamento](doc/assets/DER.png)
-
+<p align="center">
+    <img src="https://raw.githubusercontent.com/fga-eps-mds/2024.1-UnB-TV-DOC/main/docs/assets/DiagramaEntidadeRelacionamento.png" />
+</p>
 
 ## 6. Diagrama Lógico de Dados (DLD)
 
 O diagrama lógico de dados é uma representação detalhada que se aproxima da estrutura final a ser implementada no banco de dados. Este diagrama inclui tabelas, especificando todos os atributos, além de identificar as chaves primárias e estrangeiras. Ele define a estrutura dos elementos de dados e seus inter-relacionamentos, descrevendo assim as necessidades de dados requeridas para o projeto.
 
-![Diagrama Lógico de Dados](doc/assets/Lógico.png)
+<p align="center">
+    <img src="https://raw.githubusercontent.com/fga-eps-mds/2024.1-UnB-TV-DOC/main/docs/assets/DiagramaLogicoDeDados.png" />
+</p>
 
 ## 5. Referências Bibliográficas
 

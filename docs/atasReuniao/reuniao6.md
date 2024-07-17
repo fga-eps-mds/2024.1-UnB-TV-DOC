@@ -9,7 +9,7 @@ No dia 16/04 foi realizada a segunda reunião com objetivo de definir o MVP do p
   - Gabriel Roger Amorim da Cruz
   - João Pedro de Camargo Vaz
   - Victor Hugo Oliveira Leão
-  - Vinicius de Assumpção Araújo
+  - Vinicius Assumpção de Araújo
   - Felipe de Jesus Rodrigues
   - Gabriel Henrique Rodrigues de Lima
   - Jéssica Eveline Saraiva Araújo

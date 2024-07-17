@@ -9,7 +9,7 @@ No dia 15/04 foi realizada a primeira reunião com objetivo de definir o MVP do 
   - Gabriel Roger Amorim da Cruz
   - João Pedro de Camargo Vaz
   - Victor Hugo Oliveira Leão
-  - Vinicius de Assumpção Araújo
+  - Vinicius Assumpção de Araújo
   - Benjamim Lacerda Santos
   - Felipe de Jesus Rodrigues
   - Gabriel Henrique Rodrigues de Lima

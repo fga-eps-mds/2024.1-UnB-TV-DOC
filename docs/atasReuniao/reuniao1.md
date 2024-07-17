@@ -9,7 +9,7 @@ Esse documento visa apresentar os dados da primeira reunião realizada entre as 
   - Gabriel Roger Amorim da Cruz
   - João Pedro de Camargo Vaz
   - Victor Hugo Oliveira Leão
-  - Vinicius de Assumpção Araújo
+  - Vinicius Assumpção de Araújo
   - Benjamim Lacerda Santos
   - Felipe de Jesus Rodrigues
   - Gabriel Henrique Rodrigues de Lima

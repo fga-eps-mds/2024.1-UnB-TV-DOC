@@ -9,7 +9,7 @@ No dia 10/04 foi realizada a reunião de kick-off do projeto UnB-TV.
   - Gabriel Roger Amorim da Cruz
   - João Pedro de Camargo Vaz
   - Victor Hugo Oliveira Leão
-  - Vinicius de Assumpção Araújo
+  - Vinicius Assumpção de Araújo
   - Benjamim Lacerda Santos
   - Felipe de Jesus Rodrigues
   - Gabriel Henrique Rodrigues de Lima

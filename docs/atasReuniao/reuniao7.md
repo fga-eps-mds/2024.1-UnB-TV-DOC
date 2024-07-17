@@ -9,7 +9,7 @@ No dia 12/04 foi realizado uma reunião para definição dos story points das hi
   - Gabriel Roger Amorim da Cruz
   - João Pedro de Camargo Vaz
   - Victor Hugo Oliveira Leão
-  - Vinicius de Assumpção Araújo
+  - Vinicius Assumpção de Araújo
   - Benjamim Lacerda Santos
   - Felipe de Jesus Rodrigues
   - Gabriel Henrique Rodrigues de Lima

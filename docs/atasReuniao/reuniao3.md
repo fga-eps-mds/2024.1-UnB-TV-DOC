@@ -9,7 +9,7 @@ No dia 08/04 foi realizada uma reunião para apresentar o lean inception para os
   - Gabriel Roger Amorim da Cruz
   - João Pedro de Camargo Vaz
   - Victor Hugo Oliveira Leão
-  - Vinicius de Assumpção Araújo
+  - Vinicius Assumpção de Araújo
   - Benjamim Lacerda Santos
   - Gabriel Henrique Rodrigues de Lima
   - Jéssica Eveline Saraiva Araújo

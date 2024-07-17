@@ -8,7 +8,7 @@ Visando o treinamento e preparação dos alunos da disciplina de Métodos de Des
 
 ### 2.1. Treinamento Backend
 
-[![Treinamento 2.1](https://img.youtube.com/vi/6Emem3E0qqo/0.jpg)](https://youtu.be/6Emem3E0qqo)
+[![Treinamento Backend](https://img.youtube.com/vi/6Emem3E0qqo/0.jpg)](https://youtu.be/6Emem3E0qqo)
 
 ### 2.2. Material Adicional
 

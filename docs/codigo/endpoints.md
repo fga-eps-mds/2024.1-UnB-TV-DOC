@@ -255,4 +255,4 @@ Esse documento apresenta a documentação de cada um dos endpoints do código fo
 
 | Data | Versão | Descrição | Autor |
 | :-----: | :-------------: | :---------------: | :-: |
-| 20/04/2023 | 1.0 | Versão inicial com pontos 1 a 5 | [Victor Hugo Oliveira Leão](https://github.com/victorleaoo) |
+| 20/04/2024 | 1.0 | Versão inicial com pontos 1 a 5 | [Victor Hugo Oliveira Leão](https://github.com/victorleaoo) |

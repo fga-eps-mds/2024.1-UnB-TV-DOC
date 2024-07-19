@@ -98,4 +98,4 @@ Comandos para limpar o Docker, interessante de usar caso enfrente algum erro:
 
 | Data | Versão | Descrição | Autor |
 | :-----: | :-------------: | :---------------: | :-: |
-| 15/07/2023 | 1.0 | Versão inicial com pontos 1 a 6 | [Victor Hugo Oliveira Leão](https://github.com/victorleaoo) |
+| 15/07/2024 | 1.0 | Versão inicial com pontos 1 a 6 | [Victor Hugo Oliveira Leão](https://github.com/victorleaoo) |

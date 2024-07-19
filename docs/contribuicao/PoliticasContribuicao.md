@@ -114,5 +114,5 @@ Ao criar um Pull Request, ele deve seguir o seguinte padrão:
 
 | Data | Versão | Descrição | Autor |
 | :-----: | :-------------: | :---------------: | :-: |
-| 31/03/2023 | 1.0 | Versão inicial com pontos 1 a 2 (2.5) | [Victor Hugo Oliveira Leão](https://github.com/victorleaoo) |
+| 31/03/2024 | 1.0 | Versão inicial com pontos 1 a 2 (2.5) | [Victor Hugo Oliveira Leão](https://github.com/victorleaoo) |
 | 10/04/2024 | 1.1 | Ajuste na padronização do documento | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |

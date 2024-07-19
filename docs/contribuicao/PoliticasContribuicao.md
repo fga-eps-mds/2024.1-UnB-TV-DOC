@@ -95,6 +95,13 @@ Ao criar um Pull Request, ele deve seguir o seguinte padrão:
 5. Tipos de Mudanças
 ```
 
+3. **IMPORTANTE:** adicionar uma das label:
+   - DEVELOP: quando não tiver impacto direto nas funcionalidades;
+   - FIX RELEASE: arruma alguma coisa pequena;
+   - MINOR RELEASE: pequena alteração na release;
+   - MAJOR RELEASE: alteração grande para a release;
+   - NO RELEASE: não tem nenhuma relação nova.
+
 3. Preencher os seguintes critérios de aceitação:
 
 ```

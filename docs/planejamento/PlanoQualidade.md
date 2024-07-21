@@ -48,24 +48,23 @@ As métricas de qualidade definidas para o software são:
 
 | Métrica          | Descrição                                     |
 | ---------------- | --------------------------------------------- |
-| Bugs             | Número de problemas identificados no código   |
-| Coverage         | Grau de cobertura dos testes no código        |
+| Complexidade  | Complexidade ciclomática. Define a complexidade de um programa |
+| Comentários  | Densidade (%) de linhas comentadas     |
 | Duplicação       | Quantidade de linhas de código duplicadas     |
+| Coverage         | Grau de cobertura dos testes no código        |
 | Linhas           | Total de linhas de código no projeto          |
 | Security Rating  | Avaliação de segurança e vulnerabilidades     |
-| Complexidade  | Complexidade ciclomática. Define a complexidade de um programa. |
-| Comentários  | Densidade (%) de linhas comentadas.     |
 
 Através do uso de métricas, é possível identificar as subcaracterísticas relacionadas e avaliar a qualidade do produto. Essa avaliação fornece insights sobre a produtividade do projeto e influencia as decisões tomadas durante o desenvolvimento. Os valores mínimos aceitáveis para cada métrica do projeto foram estabelecidos com base nas métricas especificadas no SonarCloud.
 
 | Métrica           | Critério                         |
 | ----------------- | -------------------------------- |
-| Bugs              | Classificado como "A"            |
-| Coverage          | Pelo menos 90% de cobertura      |
-| Duplication       | Até 3.0% de duplicação de código |
-| Security Hotspots | Classificado como "A"            |
 | Complexity       | Até 10 de complexidade |
 | Comment Lines Density (%)       | Até 30% de densidade de comentários |
+| Duplicated Lines Density       | Até 3.0% de duplicação de código |
+| Coverage          | Pelo menos 90% de cobertura      |
+| NCLOC          | Apenas para acompanhar     |
+| Security Rating | Classificado como "A"            |
 
 ## 4. Referências
 

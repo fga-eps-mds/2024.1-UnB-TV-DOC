@@ -32,7 +32,8 @@ nav:
     - Estrutura Analítica do Projeto (EAP): produto/eap.md
   - Sprints:
     - Sprint Template: sprints/SprintTemplate/SprintTemplate.md
-    - Pareamento Template: sprints/SprintTemplate/PareamentoTemplate.md
+    - Sprint 1: sprints/Sprint1.md
+    - Sprint 2: sprints/Sprint2.md
   - Atas de Reuniões:
     - Reuniões da Equipe:
       - Reunião 1: atasReuniao/reuniao1.md

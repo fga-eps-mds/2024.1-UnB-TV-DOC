@@ -36,7 +36,7 @@ De acordo com o site Viver de Elétrica, um notebook consome por mês 10,8 kWh. 
 
 A planilha abaixo mostra os custos por semana até a entrega do MVP e o fim do Projeto (fim da disciplina):
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTY-1CAjmcTKx-TbhulLux2ppxOEq68wddA59iQyZU1h2irXhVkaMHEMH1XX0e2rXVO-GHNtlFZ5nym/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTY-1CAjmcTKx-TbhulLux2ppxOEq68wddA59iQyZU1h2irXhVkaMHEMH1XX0e2rXVO-GHNtlFZ5nym/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="100%"></iframe>
 
 ## 4. Referências
 

@@ -62,7 +62,7 @@ Através do uso de métricas, é possível identificar as subcaracterísticas re
 | Complexity       | Até 10 de complexidade |
 | Comment Lines Density (%)       | Até 30% de densidade de comentários |
 | Duplicated Lines Density       | Até 3.0% de duplicação de código |
-| Coverage          | Pelo menos 90% de cobertura      |
+| Coverage          | Pelo menos 80% de cobertura      |
 | NCLOC          | Apenas para acompanhar     |
 | Security Rating | Classificado como "A"            |
 

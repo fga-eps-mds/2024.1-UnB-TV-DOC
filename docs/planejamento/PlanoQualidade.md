@@ -10,19 +10,19 @@ A qualidade de software pode ser definida como uma gestão de qualidade efetiva 
 
 O SonarCloud é uma ferramenta amplamente empregada para coletar métricas e indicadores técnicos, permitindo o monitoramento da qualidade do código. Durante o desenvolvimento do projeto, métricas seão capturadas após cada PR. Essas métricas foram combinadas para calcular os aspectos relevantes de qualidade do código, com foco na confiabilidade e manutenibilidade. Esses dados são cruciais para orientar o planejamento de melhorias contínuas, visando garantir um código confiável e de fácil manutenção.
 
-### 2.2 Testes Unitários - Jasmine (Front End)
+### 2.2 Testes - Jasmine (Front End)
 
-Jasmine é um framework open source para a realização de testes unitários a partir de códigos que utilizam da linguagem JavaScript. O Jasmine tem como característica a sua fácil utilização e a independencia de outros frameworks. No projeto utilizaremos o Jasmine para realizar testes no front-end.
+Jasmine é um framework open source para a realização de testes a partir de códigos que utilizam da linguagem JavaScript. O Jasmine tem como característica a sua fácil utilização e a independencia de outros frameworks. No projeto utilizaremos o Jasmine para realizar testes no front-end.
 
 A meta principal dos testes não é necessariamente provar a total correção de um software, mas identificar e corrigir defeitos potenciais. Apesar das limitações teóricas, é importante que cada comando no código seja examinado e que as atribuições de valor às variáveis sejam rigorosamente verificadas para garantir a funcionalidade e a confiabilidade do software em desenvolvimento. Os testes unitários são testes automatizados cujo objetivo é verificar o desempenho de partes isoladas de código em um sistema maior.
 
-### 2.3 Testes Unitários - TestClient (Back End)
+### 2.3 Testes - TestClient (Back End)
 
-Ferramenta muito utilizada para testagem do framework FastAPI. Tem como característica ser de fácil utilização. Será usado pela equipe para a realização de testes unitários no back-end.
+Ferramenta muito utilizada para testagem do framework FastAPI. Tem como característica ser de fácil utilização. Será usado pela equipe para a realização de testes no back-end.
 
-### 2.4 Testes Unitários - Pytest (Back End)
+### 2.4 Testes - Pytest (Back End)
 
-Para assegurar a qualidade e a robustez do sistema, a equipe empregou o Pytest no backend para a execução de testes unitários. O Pytest, uma ferramenta de teste unitário gratuita e de código aberto, é focado na comunidade e adequado para o desenvolvimento em Python. Ele é amplamente utilizado para testar código Python e é compatível com várias ferramentas e frameworks populares no ecossistema Python.
+Para assegurar a qualidade e a robustez do sistema, a equipe empregou o Pytest no backend para a execução de testes unitários. O Pytest, uma ferramenta de teste gratuita e de código aberto, é focado na comunidade e adequado para o desenvolvimento em Python. Ele é amplamente utilizado para testar código Python e é compatível com várias ferramentas e frameworks populares no ecossistema Python.
 
 ### 2.5 ESLint
 

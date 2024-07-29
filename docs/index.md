@@ -14,7 +14,7 @@
 | Foto | Nome | Github | Discord | Email | Matrícula |
 |:----:|:----:|:------:|:-------:|:-----:|:---------:|
 | <img width="100px" style="border-radius:10%" src="https://github.com/benlacerda.png" alt="Benjamim Lacerda Santos"> | Benjamim Lacerda Santos | @benlacerda | arranhaceu | benjamim.lacerda16@gmail.com | 200062123 |
-| <img width="100px" style="border-radius:10%" src="https://github.com/pimbosi.png" alt="Felipe de Jesus Rodrigues"> | Felipe de Jesus Rodrigues | @pimbosi | feliperodr0 | felipe123rodrigues1@gmail.com | 211062867 |
+| <img width="100px" style="border-radius:10%" src="https://github.com/felipeJRdev.png" alt="Felipe de Jesus Rodrigues"> | Felipe de Jesus Rodrigues | @felipeJRdev | feliperodr0 | felipe123rodrigues1@gmail.com | 211062867 |
 | <img width="100px" style="border-radius:10%" src="https://github.com/GHenriqueLima.png" alt="Gabriel Henrique Rodrigues de Lima"> | Gabriel Henrique Rodrigues de Lima  | @GHenriqueLima | gabigol.lima | ghrl2003@gmail.com | 221022284 |
 | <img width="100px" style="border-radius:10%" src="https://github.com/xzxjesse.png" alt="Jéssica Eveline Saraiva Araújo"> | Jéssica Eveline Saraiva Araújo  | @xzxjesse | xzxjesse | jessicaeveline121@gmail.com | 221022319 |
 | <img width="100px" style="border-radius:10%" src="https://github.com/jmarquees.png" alt="João Victor Marques Reis de Miranda"> | João Victor Marques Reis de Miranda  | @jmarquees | jmarquees_ | rreisjoao@gmail.com | 200058576 |

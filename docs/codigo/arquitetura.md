@@ -51,14 +51,39 @@ Composto por dois tipos de diagramas:
 ### 4.1. Diagrama de pacote Front-end
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/fga-eps-mds/2024.1-UnB-TV-DOC/4e5aa4f32aa3d5d998de12b0750103d99f877e4b/docs/assets/frontend.svg" />
+    <img src="https://raw.githubusercontent.com/fga-eps-mds/2024.1-UnB-TV-DOC/4e5aa4f32aa3d5d998de12b0750103d99f877e4b/docs/assets/pacote-frontend.png" />
 </p>
+
+Descrições breves dos pacotes:
+
+- src: contém todos os arquivos de código-fonte do front-end;
+- assets: contém arquivos estáticos (imagens);
+- shared/model: classes estáticas usadas ao longo do código;
+- app: contém o código-fonte executável;
+- components: componentes que estão presentes em todas páginas (header e footer);
+- environment: variáveis de ambiente;
+- guard: responsável pela autenticação em páginas que a necessita;
+- helper: validadores;
+- interceptor: interceptador de token;
+- pages: páginas e componentes do sistema;
+- services: arquivos com funções usadas nas páginas e componentes.
 
 ### 4.2. Diagrama de pacote Back-end
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/fga-eps-mds/2024.1-UnB-TV-DOC/4e5aa4f32aa3d5d998de12b0750103d99f877e4b/docs/assets/backend.svg" />
+    <img src="https://raw.githubusercontent.com/fga-eps-mds/2024.1-UnB-TV-DOC/4e5aa4f32aa3d5d998de12b0750103d99f877e4b/docs/assets/pacote-backend.png" />
 </p>
+
+Descrições breves dos pacotes:
+
+- src: contém todos os arquivos de código-fonte do back-end;
+- tests: arquivos de testes;
+- constants: arquivos com variáveis constantes no código;
+- controller: aplica os endpoints;
+- domain: classes a serem aplicadas nos endpoints;
+- model: estrutura de classes para o banco de dados;
+- repository: funções de comunicação com o banco de dados;
+- utils: funções adicionais.
 
 ### 4.3. Diagrama de implantação
 

@@ -51,7 +51,7 @@ Composto por dois tipos de diagramas:
 ### 4.1. Diagrama de pacote Front-end
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/fga-eps-mds/2024.1-UnB-TV-DOC/4e5aa4f32aa3d5d998de12b0750103d99f877e4b/docs/assets/pacote-frontend.png" />
+    <img src="https://raw.githubusercontent.com/fga-eps-mds/2024.1-UnB-TV-DOC/main/docs/assets/pacote-frontend.png" />
 </p>
 
 Descrições breves dos pacotes:
@@ -71,7 +71,7 @@ Descrições breves dos pacotes:
 ### 4.2. Diagrama de pacote Back-end
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/fga-eps-mds/2024.1-UnB-TV-DOC/4e5aa4f32aa3d5d998de12b0750103d99f877e4b/docs/assets/pacote-backend.png" />
+    <img src="https://raw.githubusercontent.com/fga-eps-mds/2024.1-UnB-TV-DOC/main/docs/assets/pacote-backend.png" />
 </p>
 
 Descrições breves dos pacotes:

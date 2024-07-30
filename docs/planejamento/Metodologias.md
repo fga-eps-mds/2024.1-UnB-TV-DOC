@@ -29,6 +29,8 @@ Dessa forma, as práticas aplicadas da Extreme Programming pela equipe são:
 1. **Programação em Pares**: Desenvolvedores trabalharão em pares para melhorar a qualidade do código e compartilhar conhecimento.
 2. **Cliente Presente**: O cliente ou representante do cliente está envolvido no processo de desenvolvimento.
 3. **Refatoração**: Processo de analisar um algoritmo pouco legível com a finalidade de simplificá-lo, facilitando a sua leitura. Será reforçado pela equipe.
+4. **Testes Contínuos**: A cada mudança no código em repositório, os testes (build e deploy) são executados automaticamente para garantir a qualidade do código.
+5. **Releases rápidas**: Iterações curtas que resultam em releases (entregas) frequentes.
 
 ### 2.3. Kanban
 

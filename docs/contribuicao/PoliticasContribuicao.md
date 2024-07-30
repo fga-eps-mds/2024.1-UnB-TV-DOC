@@ -6,6 +6,8 @@ Esse documento guia como devem ser feitas as contribuições no projeto. Ele se 
 
 ## 2. Guia de Contribuição
 
+Ao criar uma issue com algum dos templates, use as labels a seguir para melhor identificação: HOTFIX, DOCS, FEATURE, US, ARQ, DEVOPS, ANALYTICS, EASY, MEDIUM ou HARD.
+
 ### 2.1. Reportar Bugs
 
 Para reportar um Bug, uma issue deve ser criada seguindo o template abaixo:

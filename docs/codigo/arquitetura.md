@@ -23,7 +23,6 @@ FastAPI é utilizado neste projeto para desenvolver três microsserviços, desta
 
 ### 2.3. Node.js
 
-
 Node.js é um ambiente de execução JavaScript usado no projeto para a construção do gateway, devido ao seu desempenho assíncrono e não bloqueante, permitindo a gestão eficiente de múltiplas conexões simultâneas. Também se adapta bem a arquiteturas de microsserviços e é multiplataforma, facilitando a implantação em diferentes sistemas operacionais, o que torna esta tecnologia uma escolha robusta e versátil para o gateway.
 
 ### 2.4. PostgreSQL
@@ -36,9 +35,9 @@ No projeto, o PostgreSQL é utilizado como o sistema de gerenciamento de banco d
 
 -   **VideoService:** Microserviço responsável pelas interações entre usuário e vídeo, além do módulo de recomendações. Também é responsável pela grade de programação dos programas (a funcionalidade de comentários foi retirada).
 
--   **Users:** Microsserviço responsável pela gestão dos usuários da aplicação.
+-   **Users:** Microsserviço responsável pela gestão dos usuários da aplicação e seus acessos, sejam eles usuários "comuns" ou adminisitradores.
 
--   **Admin:** Microsserviço responsável pela conta do admin, como delegar admin a outros usuários, receber as pautas sugeridas, gerar notificações para a aplicação.
+-   **Admin:** Microsserviço responsável por gerenciar tarefas de envio/responsabilidade direto ao administrador como, por exemplo, a sugestão de pauta. As funcionalidades aqui não competem às responsabilidades dos usuários em si, nem ao serviço de entrega de vídeos.
 
 -   **Gateway:** Responsável para realizar a interface do usuário com os demais serviços da aplicação, provendo autenticação e autorização.
 

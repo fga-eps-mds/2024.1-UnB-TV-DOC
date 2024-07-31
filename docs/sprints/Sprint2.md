@@ -28,6 +28,8 @@ Tabela com o planejamento de reuniões da Sprint:
 
 Foi esperado o desenvolvimento das US1, US2 e US20, o grupo foi dividido em trios, com 2 histórias ficando para um trio e outra história com dois trios, principalmente pelo planejamento de histórias da Release 1 (não ficar muito extensa). Assim, os integrantes de EPS apoiariam o desenvolvimento por parte dos estudantes de MDS. Os testes seriam esperados de serem feitos pelos integrantes de EPS.
 
+Todas as histórias foram entregues a tempo e com excelência.
+
 ## 5. Versionamento do Documento
 
 | Data | Versão | Descrição | Autor |

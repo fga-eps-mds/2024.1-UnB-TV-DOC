@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-No dia 30/07 foi realizada a Planning da equipe de maneira assíncrona, com a designação das tarefas da sprint para cada trio. Foi definido que Victor Hugo, Ruan e Jéssica ficaram encarregados da US04, Gabriel Roger, João Victor e João Vitor ficaram encarregados da US06, João Pedro, Pedro e Felipe ficaram encarregados da US08 e Vinicius, Gabriel Henrique e Benjamim ficaram encarregados da US13.
+No dia 30/07 foi realizada a Planning da equipe, com a designação das tarefas da sprint para cada trio. Foi definido que Victor Hugo, Ruan e Jéssica ficaram encarregados da US04, Gabriel Roger, João Victor e João Vitor ficaram encarregados da US06, João Pedro, Pedro e Felipe ficaram encarregados da US08 e Vinicius, Gabriel Henrique e Benjamim ficaram encarregados da US13.
 
 ## 2. Membros Participantes
 
@@ -19,8 +19,13 @@ No dia 30/07 foi realizada a Planning da equipe de maneira assíncrona, com a de
   - Pedro Gustavo de Souza Santos
   - Ruan Sobreira Carvalho
 
-## 3. Versionamento do Documento
+## 3. Gravação da Reunião
+
+[![Reunião 12](https://img.youtube.com/vi/Muo1944ZmTk/maxresdefault.jpg)](https://www.youtube.com/watch?v=Muo1944ZmTk)
+
+## 4. Versionamento do Documento
 
 | Data | Versão | Descrição | Autor |
 | :-----: | :-------------: | :---------------: | :-: |
 | 23/07/2024 | 1.0 | Versão inicial da reunião 12 | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |
+| 01/08/2024 | 1.1 | Adição da gravação da reunião | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |

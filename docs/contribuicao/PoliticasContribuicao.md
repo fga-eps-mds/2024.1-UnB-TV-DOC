@@ -98,6 +98,7 @@ Ao criar um Pull Request, ele deve seguir o seguinte padrão:
 ```
 
 3. **IMPORTANTE:** adicionar uma das label:
+
    - DEVELOP: quando não tiver impacto direto nas funcionalidades;
    - FIX RELEASE: arruma alguma coisa pequena;
    - MINOR RELEASE: pequena alteração na release;

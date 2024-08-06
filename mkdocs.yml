@@ -45,6 +45,7 @@ nav:
       - Reunião 7: atasReuniao/reuniao7.md
       - Reunião 9: atasReuniao/reuniao9.md
       - Reunião 14: atasReuniao/reuniao14.md
+      - Reunião 16: atasReuniao/reuniao16.md
     - Reuniões com os Stakeholders:
       - Reunião 4: atasReuniao/reuniao4.md
       - Reunião 5: atasReuniao/reuniao5.md
@@ -55,7 +56,6 @@ nav:
       - Reunião 12: atasReuniao/reuniao12.md
       - Reunião 13: atasReuniao/reuniao13.md
       - Reunião 15: atasReuniao/reuniao15.md
-      - Reunião 16: atasReuniao/reuniao16.md
   - Metodologia de Comportamento do Projeto:
       - Qualidade de Software do Projeto: eps_metodologia/qualidade.md
       - Uso do PMBOK para Gerenciamento: eps_metodologia/usoPMBOK.md

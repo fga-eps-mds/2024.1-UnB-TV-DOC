@@ -29,3 +29,9 @@ Coleta de Feedback
 ## Conclusão
 
 A qualidade do software não é apenas uma função do código ou da tecnologia utilizada, mas também do quanto esse software atende e excede as expectativas e necessidades dos usuários finais. Testes de aceitação e o feedback do usuário são fundamentais nesse processo. Referências essenciais na área, como o PMBOK e obras clássicas de engenharia de software, como "Engenharia de Software" de Ian Sommerville, destacam a importância desses métodos como parte integrante do ciclo de vida do desenvolvimento de software, contribuindo significativamente para a entrega de soluções de alta qualidade.
+
+## Versionamento do Documento
+
+| Data | Versão | Descrição | Autor |
+| :-----: | :-------------: | :---------------: | :-: |
+| 06/08/2024 | 1.0 | Versão inicial | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) |

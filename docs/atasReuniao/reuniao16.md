@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-No dia 05/08 foi realizada a Planning da equipe, com a designação das tarefas da sprint para cada trio. Foi definido quais histórias do backlog do produto seriam escolhidas para a meta da sprint. Bem como respodido as perguntas relativas ao rito ágil de planning: "O porque a sprint é valiosa para o produto?", "Quais Itens do Backlog irão para o Sprint Backlog?" e "O plano para cumprir a Sprint". Nesse sentido, em relação às perguntas, foi definido que iremos atuar nas histórias, previstas no sequenciador da lean inception, US06, US09, US11, US14.
+No dia 05/08 foi realizada a Planning da equipe, com a designação das tarefas da sprint para cada trio. Foi definido quais histórias do backlog do produto seriam escolhidas para a meta da sprint. Bem como respodido as perguntas relativas ao rito ágil de planning: "O porque a sprint é valiosa para o produto?", "Quais Itens do Backlog irão para o Sprint Backlog?" e "O plano para cumprir a Sprint". Nesse sentido, em relação às perguntas, foi definido que iremos atuar nas histórias, previstas no sequenciador da lean inception, US06, US09, US11, US14. Foi definido que Victor Hugo, Gabriel Henrique e Jéssica ficaram encarregados da US11, Gabriel Roger, João Victor e João Vitor continuam no desenvolvimento da US06, João Pedro, Ruan e Benjamim ficaram encarregados da US09 e Vinicius, Felipe e Pedro ficaram encarregados da US14.
 
 ### 1.1 Definição de Pronto:
    - 50% de cobertura de testes.

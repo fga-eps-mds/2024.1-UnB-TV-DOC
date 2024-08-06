@@ -5,7 +5,9 @@
 No dia 05/08 foi realizada a Planning da equipe, com a designação das tarefas da sprint para cada trio. Foi definido quais histórias do backlog do produto seriam escolhidas para a meta da sprint. Bem como respodido as perguntas relativas ao rito ágil de planning: "O porque a sprint é valiosa para o produto?", "Quais Itens do Backlog irão para o Sprint Backlog?" e "O plano para cumprir a Sprint". Nesse sentido, em relação às perguntas, foi definido que iremos atuar nas histórias, previstas no sequenciador da lean inception, US06, US09, US11, US14.
 
 ### 1.1 Definição de Pronto:
-Cumprimento de todos os critérios de aceitação e o usuário fizer os testes de aceitação.
+   - 50% de cobertura de testes.
+   - Sem defeitos.
+   - Todos os critérios de aceitação implementados      
 
 ## 2. Membros Participantes
 

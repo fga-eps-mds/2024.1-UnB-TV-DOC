@@ -15,7 +15,7 @@ Tabela com o planejamento de reuniões da Sprint:
 | Reunião | Data/Horário |
 | :-----: | :----------: |
 | Planning | Segunda-feira (29/07), 18h30 |
-| Review + Retrospectiva | PLANEJADA PARA: Segunda-feira (05/08), 18h |
+| Review + Retrospectiva | Segunda-feira (05/08), 18h |
 
 ### 2.1 Definição de Pronto:
    - 50% de cobertura de testes.

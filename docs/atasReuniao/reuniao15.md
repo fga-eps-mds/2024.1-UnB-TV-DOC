@@ -19,4 +19,4 @@ No dia 05/08 foi realizada a reunião de review do time de desenvolvedores do UN
 
 | Data | Versão | Descrição | Autor |
 | :-----: | :-------------: | :---------------: | :-: |
-| 06/08/2024 | 1.0 | Versão inicial da reunião 14 | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) |
+| 06/08/2024 | 1.0 | Versão inicial da reunião 15 | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) |

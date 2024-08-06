@@ -5,7 +5,9 @@
 No dia 22/07 foi realizada a Planning da equipe, com a designação das tarefas da sprint para cada trio. Foi definido que Victor Hugo, Benjamim e João Victor Marques ficaram encarregados da US01, Gabriel Roger, Felipe e João Vitor ficaram encarregados da US02 e João Pedro, Vinicius, Gabriel Henrique, Jéssica, Pedro e Ruan ficaram encarregados da US20.
 
 ### 1.1 Definição de Pronto:
-Cumprimento de todos os critérios de aceitação e o usuário fizer os testes de aceitação.
+   - 50% de cobertura de testes.
+   - Sem defeitos.
+   - Todos os critérios de aceitação implementados    
 
 ## 2. Membros Presentes
 

@@ -45,3 +45,9 @@ Detalhamento e Validação das Histórias de Usuário
 # Conclusão
 
 Integrando as práticas do PMBOK com ferramentas ágeis como o ZenHub, o time de 2024.1 da UNB TV maximiza sua eficiência e eficácia. O processo de revisão e validação das histórias de usuário com o PO garante que todas as funcionalidades desenvolvidas estejam perfeitamente alinhadas com os objetivos do projeto, enquanto o uso de ZenHub facilita um controle rigoroso sobre o progresso e a qualidade do trabalho entregue.
+
+## Versionamento do Documento
+
+| Data | Versão | Descrição | Autor |
+| :-----: | :-------------: | :---------------: | :-: |
+| 06/08/2024 | 1.0 | Versão inicial | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) |

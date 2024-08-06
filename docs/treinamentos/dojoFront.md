@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-Visando o treinamento e preparação dos alunos da disciplina de Métodos de Desenvolvimento de Software nas tecnologias utilizadas no frontend do projeto, foi realizado um treinamento no dia 12 de julho de 2024.
+Visando o treinamento e preparação dos alunos da disciplina de Métodos de Desenvolvimento de Software nas tecnologias utilizadas no frontend do projeto, foi realizado um treinamento no dia 12 de julho de 2024, em que foi mostrado o passo a passo de criação de um componente do angular e tentar passar aos alunos de MDS, com maior fidedignidade possível, como funcionará a lógica do front end do projeto UNB TV
 
 Neste treinamento, foi apresentado o funcionamento do HTML, CSS e Angular.
 

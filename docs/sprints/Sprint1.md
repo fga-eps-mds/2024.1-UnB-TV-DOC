@@ -35,4 +35,4 @@ Portanto, a história foi de grande valor para o time e para o PO, uma vez que p
 | Data | Versão | Descrição | Autor |
 | :-----: | :-------------: | :---------------: | :-: |
 | 26/07/2024 | 1.0 | Versão inicial do documento | [Victor Hugo Oliveira Leão](https://github.com/victorleaoo) |
-| 06/08/2024 | 1.0 | Versão inicial do documento | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) |
+| 06/08/2024 | 1.1 | Versão inicial do documento | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) |

@@ -37,4 +37,4 @@ Com isso, o resultado das histórias foram de extrema qualidade, seguindo o prot
 | Data | Versão | Descrição | Autor |
 | :-----: | :-------------: | :---------------: | :-: |
 | 06/08/2024 | 1.0 | Versão inicial do documento | [Vinícius Assumpçlão de Araújo](https://github.com/viniman27) |
-| 06/08/2024 | 1.1 | Versão inicial do documento | [Vinícius Assumpçlão de Araújo](https://github.com/JoaoPedro0803) |
+| 06/08/2024 | 1.1 | Versão inicial do documento | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) |

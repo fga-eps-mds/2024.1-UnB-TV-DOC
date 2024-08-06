@@ -59,6 +59,7 @@ nav:
   - Metodologia de Comportamento do Projeto:
       - Qualidade de Software do Projeto: eps_metodologia/qualidade.md
       - Uso do PMBOK para Gerenciamento: eps_metodologia/usoPMBOK.md
+      - Interação EPS/MDS no Projeto: eps_metodologia/controleProjeto.md
 
 theme:
   name: material

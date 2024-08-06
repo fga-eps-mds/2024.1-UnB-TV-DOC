@@ -26,10 +26,11 @@ No dia 05/08 foi realizada a Planning da equipe, com a designação das tarefas 
 
 ## 3. Gravação da Reunião
 
-[[Reunião 16]](#href)
+[![Reunião 16](https://img.youtube.com/vi/qnWmY951qdU/maxresdefault.jpg)](https://www.youtube.com/watch?v=qnWmY951qdU)
 
 ## 4. Versionamento do Documento
 
 | Data | Versão | Descrição | Autor |
 | :-----: | :-------------: | :---------------: | :-: |
 | 06/08/2024 | 1.0 | Versão inicial da reunião 16 | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) |
+| 06/08/2024 | 1.1 | Adição da gravação da reunião | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |

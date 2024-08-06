@@ -40,3 +40,4 @@ Todas as histórias foram entregues a tempo e com excelência.
 | Data | Versão | Descrição | Autor |
 | :-----: | :-------------: | :---------------: | :-: |
 | 26/07/2024 | 1.0 | Versão inicial do documento | [Victor Hugo Oliveira Leão](https://github.com/victorleaoo) |
+| 06/08/2024 | 1.1 | Correção da data de Review + Retrospectiva | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |

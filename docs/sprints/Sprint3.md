@@ -43,3 +43,4 @@ Com isso, o resultado das histórias foram de extrema qualidade, seguindo o prot
 | :-----: | :-------------: | :---------------: | :-: |
 | 06/08/2024 | 1.0 | Versão inicial do documento | [Vinícius Assumpçlão de Araújo](https://github.com/viniman27) |
 | 06/08/2024 | 1.1 | Versão atual do documento | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) |
+| 06/08/2024 | 1.2 | Correção da data de Review + Retrospectiva | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |

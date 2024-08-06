@@ -15,8 +15,13 @@ No dia 05/08 foi realizada a reunião de review do time de desenvolvedores do UN
 - Jéssica Eveline Saraiva Araújo
 - Ruan Sobreira Carvalho
 
-## 3. Versionamento do Documento
+## 3. Gravação da Reunião
+
+[![Reunião 15](https://img.youtube.com/vi/KfYJZ8RBu4s/maxresdefault.jpg)](https://www.youtube.com/watch?v=KfYJZ8RBu4s)
+
+## 4. Versionamento do Documento
 
 | Data | Versão | Descrição | Autor |
 | :-----: | :-------------: | :---------------: | :-: |
 | 06/08/2024 | 1.0 | Versão inicial da reunião 15 | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) |
+| 06/08/2024 | 1.1 | Adição da gravação da reunião | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |

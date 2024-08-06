@@ -48,3 +48,9 @@ Os princípios e práticas descritos no PMBOK fornecem uma estrutura robusta par
 ## Conclusão
 
 A colaboração entre os alunos de EPS e MDS na UnB, fundamentada nas práticas do PMBOK e nas metodologias ágeis, proporciona um ambiente de aprendizado rico e estruturado. Essa relação sinérgica não só garante o desenvolvimento de software de alta qualidade, mas também prepara os alunos para os desafios do mercado de trabalho, equipando-os com habilidades técnicas e de gestão essenciais.
+
+## Versionamento do Documento
+
+| Data | Versão | Descrição | Autor |
+| :-----: | :-------------: | :---------------: | :-: |
+| 06/08/2024 | 1.0 | Versão inicial | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) |

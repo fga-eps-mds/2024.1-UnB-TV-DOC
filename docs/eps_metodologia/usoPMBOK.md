@@ -1,0 +1,1 @@
+uso do pmbok para gerenciamento de pessoas, custos, riscos, comunicação

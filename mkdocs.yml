@@ -56,7 +56,9 @@ nav:
       - Reunião 13: atasReuniao/reuniao13.md
       - Reunião 15: atasReuniao/reuniao15.md
       - Reunião 16: atasReuniao/reuniao16.md
-
+  - Metodologia de Comportamento do Projeto:
+      - Qualidade de Software do Projeto: eps_metodologia/qualidade.md
+      - Uso do PMBOK para Gerenciamento: eps_metodologia/usoPMBOK.md
 
 theme:
   name: material

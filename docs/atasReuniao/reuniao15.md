@@ -9,10 +9,10 @@ No dia 05/08 foi realizada a reunião de review do time de desenvolvedores do UN
 - João Pedro de Camargo Vaz
 - Victor Hugo Oliveira Leão
 - Vinicius Assumpção de Araújo
-- Pedro Gustavo de Souza Santos
 - Felipe de Jesus Rodrigues
 - Gabriel Henrique Rodrigues de Lima
 - Jéssica Eveline Saraiva Araújo
+- Pedro Gustavo de Souza Santos
 - Ruan Sobreira Carvalho
 
 ## 3. Gravação da Reunião

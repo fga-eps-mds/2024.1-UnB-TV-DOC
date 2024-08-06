@@ -19,8 +19,6 @@ No dia 05/08 foi realizada a Planning da equipe, com a designação das tarefas 
   - Felipe de Jesus Rodrigues
   - Gabriel Henrique Rodrigues de Lima
   - Jéssica Eveline Saraiva Araújo
-  - João Victor Marques Reis de Miranda
-  - João Vitor Santos de Oliveira
   - Pedro Gustavo de Souza Santos
   - Ruan Sobreira Carvalho
 
@@ -34,3 +32,5 @@ No dia 05/08 foi realizada a Planning da equipe, com a designação das tarefas 
 | :-----: | :-------------: | :---------------: | :-: |
 | 06/08/2024 | 1.0 | Versão inicial da reunião 16 | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) |
 | 06/08/2024 | 1.1 | Adição da gravação da reunião | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |
+| 06/08/2024 | 1.2 | Adição das atribuições das US para os trios | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |
+| 06/08/2024 | 1.3 | Correção dos participantes da reunião | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |

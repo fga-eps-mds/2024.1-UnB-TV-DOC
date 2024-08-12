@@ -37,3 +37,4 @@ Tabela com o planejamento de reuniões da Sprint:
 | Data | Versão | Descrição | Autor |
 | :-----: | :-------------: | :---------------: | :-: |
 | 06/08/2024 | 1.0 | Versão inicial do documento | [Victor Hugo Oliveira Leão](https://github.com/victorleaoo) |
+| 12/08/2024 | 1.1 | Versão inicial do documento | [Vinícius Assumpção de Araújo](https://github.com/viniman27) |

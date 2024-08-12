@@ -25,10 +25,10 @@ Tabela com o planejamento de reuniões da Sprint:
 ## 3. Atividades
 | US | Repositório | Responsáveis |
 | :---: | :---------: | :----------: |
-| US06 | Repositório ? | Gabriel Roger, João Marques e João Vitor |
-| US11 | Repositório ? | Victor, Jéssica, Gabriel |
-| US09 | Repositórios ? | João Pedro, Ruan, Benjamin |
-| US14 | Repositórios ? | Vínicius, Pedro, Felipe |
+| US06 | Repositório Frontend | Gabriel Roger, João Marques e João Vitor |
+| US11 | Repositório Frontend e VideoService | Victor, Jéssica, Gabriel |
+| US09 | Repositórios Frontend e VideoService | João Pedro, Ruan, Benjamin |
+| US14 | Repositórios Frontend e VideoService | Vínicius, Pedro, Felipe |
 
 ## 4. Conclusão da Sprint
 

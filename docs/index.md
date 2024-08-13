@@ -19,5 +19,8 @@
 | <img width="100px" style="border-radius:10%" src="https://github.com/xzxjesse.png" alt="Jéssica Eveline Saraiva Araújo"> | Jéssica Eveline Saraiva Araújo  | @xzxjesse | xzxjesse | jessicaeveline121@gmail.com | 221022319 |
 | <img width="100px" style="border-radius:10%" src="https://github.com/jmarquees.png" alt="João Victor Marques Reis de Miranda"> | João Victor Marques Reis de Miranda  | @jmarquees | jmarquees_ | rreisjoao@gmail.com | 200058576 |
 | <img width="100px" style="border-radius:10%" src="https://github.com/Jauzimm.png" alt="João Vitor Santos de Oliveira"> | João Vitor Santos de Oliveira  | @Jauzimm | johnyjohnes | joaovitorso071@gmail.com | 221022337 |
+| <img width="100px" style="border-radius:10%" src="https://github.com/Luidooo.png" alt="Luis Eduardo Castro Mendes de Lima"> | Luis Eduardo Castro Mendes de Lima  | @Luidooo | Luido__ | eng.limaluis@gmail.com  | 221008285 |
 | <img width="100px" style="border-radius:10%" src="https://github.com/PedroGusta.png" alt="Pedro Gustavo de Souza Santos"> | Pedro Gustavo de Souza Santos  | @PedroGusta | sukoh | pgustavodesouzasantos@gmail.com  | 221008605 |
+| <img width="100px" style="border-radius:10%" src="https://github.com/R-enanVieira.png" alt="Renan Vieira Guedes"> | Renan Vieira Guedes  | @R-enanVieira | renannx | renanv.guedes7@gmail.com | 221031363 |
 | <img width="100px" style="border-radius:10%" src="https://github.com/Ruan-Carvalho.png" alt="Ruan Sobreira Carvalho"> | Ruan Sobreira Carvalho  | @Ruan-Carvalho | huebr1337 | ruansobreira11@gmail.com | 211043763 |
+| <img width="100px" style="border-radius:10%" src="https://github.com/vcpVitor.png" alt="Vitor Carvalho Pereira"> | Vitor Carvalho Pereira  | @vcpVitor | vitor_cp | vitorpereira032@gmail.com | 211062615 |

@@ -13,21 +13,16 @@ No dia 12/08 foi realizada a Planning da equipe, com a designação das tarefas 
 
   - Gabriel Roger Amorim da Cruz
   - João Pedro de Camargo Vaz
-  - Victor Hugo Oliveira Leão
   - Vinicius Assumpção de Araújo
   - Benjamim Lacerda Santos
-  - Felipe de Jesus Rodrigues
   - Gabriel Henrique Rodrigues de Lima
   - Jéssica Eveline Saraiva Araújo
+  - João Vitor Santos de Oliveira
   - Pedro Gustavo de Souza Santos
-  - Ruan Sobreira Carvalho
 
-## 3. Gravação da Reunião
-
-[![Reunião 18](https://img.youtube.com/vi//maxresdefault.jpg)]()
-
-## 4. Versionamento do Documento
+## 3. Versionamento do Documento
 
 | Data | Versão | Descrição | Autor |
 | :-----: | :-------------: | :---------------: | :-: |
 | 12/08/2024 | 1.0 | Versão inicial da reunião 18 | [Vinícius Assumpção de Araújo](https://github.com/viniman27) |
+| 13/08/2024 | 1.1 | Correção dos participantes | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |

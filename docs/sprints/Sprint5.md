@@ -25,10 +25,10 @@ Tabela com o planejamento de reuniões da Sprint:
 ## 3. Atividades
 | US | Repositório | Responsáveis |
 | :---: | :---------: | :----------: |
-| US12 | Repositório ? | Vinicius, Felipe, João Marques |
-| US18 | Repositório ? | Gabriel Roger, Jéssica, Benjamin |
-| US10 | Repositórios ? | João Pedro, Gabriel, Ruan |
-| US21 | Repositórios ? | Victor, João Victor, Pedro |
+| US12 | Repositório FRONTEND e VIDEOSERVICE | Vinicius, Felipe, João Marques |
+| US18 | Repositório FRONTEND e VIDEOSERVICE | Gabriel Roger, Jéssica, Benjamin |
+| US10 | Repositórios FRONTEND e USERS | João Pedro, Gabriel, Ruan |
+| US21 | Repositórios FRONTEND e VIDEOSERVICE | Victor, João Victor, Pedro |
 
 ## 4. Conclusão da Sprint
 
@@ -37,3 +37,4 @@ Tabela com o planejamento de reuniões da Sprint:
 | Data | Versão | Descrição | Autor |
 | :-----: | :-------------: | :---------------: | :-: |
 | 12/08/2024 | 1.0 | Versão inicial do documento | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) |
+| 19/08/2024 | 1.1 | Atualização do documento | [Vinicius Assumpção de Araújo](https://github.com/Viniman27) |

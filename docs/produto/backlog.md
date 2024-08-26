@@ -60,7 +60,7 @@ Dentro do Product Backlog do projeto, os itens são categorizados como **épicos
 | US16  | Eu, como usuário, quero receber notificações de novos vídeos recomendados para mim, para estar sempre atualizado com novos conteúdos. | E | $$$ | <3<3<3 | 5 |
 | US17  | Eu, como usuário, quero configurar minhas preferências de notificação, para receber alertas apenas desejados. | E | $$$ | <3<3<3 | 5 |
 | US21  | Eu, como usuário, quero que o sistema recomende vídeos semelhantes aos que já assisti, para que eu possa descobrir novos conteúdos relacionados | EEE | $$$ | <3<3<3 | 13 |
-
+| US22  | Eu, como usuário, quero a opção de pular para o próximo vídeo recomendado, para ter uma experiência contínua de visualização. | EEE | $$$ | <3<3<3 | 13 |
 
 
 ### Épico 7: Gerenciamento de Permissões

@@ -27,6 +27,7 @@ nav:
     - Plano de Riscos: planejamento/PlanoRiscos.md
     - Plano de Aceitação: planejamento/PlanoAceitacao.md    
     - Metodologias: planejamento/Metodologias.md
+    - EVM: planejamento/evm.md
   - Produto:
     - Lean Inception: produto/leaninception.md
     #- Product Backlog: produto/backlog.md

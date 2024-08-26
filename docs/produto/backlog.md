@@ -65,6 +65,8 @@ Dentro do Product Backlog do projeto, os itens são categorizados como **épicos
 | ID  | História de Usuário | Esforço (E) | Negócio ($) | UX (<3) | Story Points |
 |-----|---------------------|-------------|-------------|---------| ------------ |
 | US10  | Eu, como administrador, quero gerenciar cargos de co-administradores, para delegar responsabilidades de gerenciamento. | EE | $$ | <3<3 | 13 |
+| US20  | US20 - Eu, como administrador, gostaria de uma página de acesso próprio, para que eu possa ter acesso a dados e informações sigilosos | EE | $$ | <3<3 | 13 |
+
 
 ## Somatório de Story Points: 122
 | Data | Versão | Descrição | Autor |

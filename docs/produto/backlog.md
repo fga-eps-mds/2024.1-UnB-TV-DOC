@@ -38,10 +38,10 @@ Dentro do Product Backlog do projeto, os itens são categorizados como **épicos
 
 | ID  | História de Usuário | Esforço (E) | Negócio ($) | UX (<3) | Story Points |
 |-----|---------------------|-------------|-------------|---------| ------------ |
-| US08   | Eu, como usuário, quero favoritar um vídeo diretamente da página de visualização, para acessá-lo facilmente depois. | E | $$ | <3<3 | 3 |
-| US09   | Eu, como usuário, quero ver minha lista de vídeos favoritos em um único lugar, para organizar meu conteúdo preferido. | E | $$ | <3<3 | 3 |
-| US13  | Eu, como usuário, quero marcar vídeos para assistir mais tarde diretamente da página de visualização, para poder guardar uma playlist de vídeos para ver depois. | E | $ | <3<3 | 3 |
-| US14  | Eu, como usuário, quero acessar minha lista de vídeos para assistir mais tarde, para poder encontrar facilmente os vídeos que marquei para ver depois. | E | $ | <3<3 | 3 |
+| US08   | Eu, como usuário, quero favoritar um vídeo diretamente da página de visualização, para acessá-lo facilmente depois. | E | $$ | <3<3 | 8 |
+| US09   | Eu, como usuário, quero ver minha lista de vídeos favoritos em um único lugar, para organizar meu conteúdo preferido. | E | $$ | <3<3 | 13 |
+| US13  | Eu, como usuário, quero marcar vídeos para assistir mais tarde diretamente da página de visualização, para poder guardar uma playlist de vídeos para ver depois. | E | $ | <3<3 | 8 |
+| US14  | Eu, como usuário, quero acessar minha lista de vídeos para assistir mais tarde, para poder encontrar facilmente os vídeos que marquei para ver depois. | E | $ | <3<3 | 13 |
 
 ### Épico 5: Rastreabilidade
 

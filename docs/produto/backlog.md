@@ -59,13 +59,16 @@ Dentro do Product Backlog do projeto, os itens são categorizados como **épicos
 | US15  | Eu, como usuário, quero ter uma lista de recomendações de vídeos semelhantes aos vistos anteriormente, para visualizar conteúdos relacionados. | EE | $$$ | <3<3<3 | 13 |
 | US16  | Eu, como usuário, quero receber notificações de novos vídeos recomendados para mim, para estar sempre atualizado com novos conteúdos. | E | $$$ | <3<3<3 | 5 |
 | US17  | Eu, como usuário, quero configurar minhas preferências de notificação, para receber alertas apenas desejados. | E | $$$ | <3<3<3 | 5 |
+| US21  | Eu, como usuário, quero que o sistema recomende vídeos semelhantes aos que já assisti, para que eu possa descobrir novos conteúdos relacionados | EEE | $$$ | <3<3<3 | 13 |
+
+
 
 ### Épico 7: Gerenciamento de Permissões
 
 | ID  | História de Usuário | Esforço (E) | Negócio ($) | UX (<3) | Story Points |
 |-----|---------------------|-------------|-------------|---------| ------------ |
 | US10  | Eu, como administrador, quero gerenciar cargos de co-administradores, para delegar responsabilidades de gerenciamento. | EE | $$ | <3<3 | 13 |
-| US20  | US20 - Eu, como administrador, gostaria de uma página de acesso próprio, para que eu possa ter acesso a dados e informações sigilosos | EE | $$ | <3<3 | 13 |
+| US20  | US20 - Eu, como administrador, gostaria de uma página de acesso próprio, para que eu possa ter acesso a dados e informações sigilosos | EEE | $$ | <3<3 | 13 |
 
 
 ## Somatório de Story Points: 122
@@ -74,3 +77,4 @@ Dentro do Product Backlog do projeto, os itens são categorizados como **épicos
 | 06/07/2024 | 1.0 | Versão inicial com pontos 1 a 2 | [Victor Hugo Oliveira Leão](https://github.com/victorleaoo) | 
 | 12/07/2024 | 1.1 | Designação de story points para as histórias | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) |
 | 15/07/2024 | 1.2 | Designação de story points para as histórias | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) |
+| 26/08/2024 | 1.3 | Adição de novas histórias | [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) |

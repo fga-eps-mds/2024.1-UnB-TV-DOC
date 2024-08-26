@@ -4,7 +4,7 @@
 
 O EVM (Earned Value Management) possibilita a avaliação do progresso de um projeto e a realização de estimativas de resultados esperados. Em contraste com o EVM Tradicional, o EVM Agile trata esforço, tempo e custo em termos de histórias de usuário, sprints, pontos, entre outros.
 
-Visualize a planilha de EVM Agile [aqui]()
+Visualize a planilha de EVM Agile [aqui](https://docs.google.com/spreadsheets/d/1jQ9Ape1gFcj1VQheaT4nn0YhEND6HLzt9aNJVGmpbVQ/edit?usp=sharing)
 
 ## 2. Métricas EVM
 
@@ -48,9 +48,27 @@ A partir das métricas, pode-se calcular as variâncias, os índices de desempen
 
 `SPI = EV / PV`
 
+### Estimativas
+
+-   **Estimativa para terminar**: Custo esperado para terminar o restante do projeto.
+
+`EAC = (BAC - EV) / CPI`
+
+-   **Estimativa na conclusão**: Representa o custo total esperado quando o trabalho for totalmente finalizado.
+
+`EAC = AC + ETC`
+
+## 4. Planilha
+
+<iframe iframe width=100% height=600 src="https://docs.google.com/spreadsheets/d/1jQ9Ape1gFcj1VQheaT4nn0YhEND6HLzt9aNJVGmpbVQ/edit?usp=sharing"></iframe>
+
+## 5. Bibliografia
+
+> Earned Value Management: The Basics Disponível em: https://www.ecosys.net/knowledge/earned-value-management-basics/. Acesso em: 09 dezembro 2023.
 
 ## Versionamento
 
 | Data       | Versão | Descrição         | Autor       |
 | ---------- | ------ | ----------------- | ----------- |
 | 26/08/2024 | 1.0    | Documento inicial | [Vinícius Assumpção de Arauújo](github.com/viniman27) |
+| 26/08/2024 | 1.1    | Versiona o doc e add links | [João Pedro](github.com/JoaoPedro0803) |

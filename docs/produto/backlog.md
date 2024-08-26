@@ -30,7 +30,6 @@ Dentro do Product Backlog do projeto, os itens são categorizados como **épicos
 
 | ID  | História de Usuário | Esforço (E) | Negócio ($) | UX (<3) | Story Points |
 |-----|---------------------|-------------|-------------|---------| ------------ |
-| US05   | Eu, como administrador, quero ver as estatísticas de visualizações de cada vídeo, para monitorar o desempenho. | EE | $$$ | <3<3<3 | 21 |
 | US06   | Eu, como administrador, quero ver as estatísticas de visualizações por categoria, para monitorar o desempenho por tópico. | EE | $$$ | <3<3<3 | 3 |
 | US07   | Eu, como administrador, quero ver as estatísticas de visualizações por dispositivo, para monitorar o desempenho por tipo de uso. | EE | $$$ | <3<3<3 | 3 |
 
@@ -67,6 +66,7 @@ Dentro do Product Backlog do projeto, os itens são categorizados como **épicos
 
 | ID  | História de Usuário | Esforço (E) | Negócio ($) | UX (<3) | Story Points |
 |-----|---------------------|-------------|-------------|---------| ------------ |
+| US05   | Eu, como administrador, quero alterar os cargos de outros usuários por meio da tela de administrador. | EE | $$$ | <3<3<3 | 13 |
 | US10  | Eu, como administrador, quero gerenciar cargos de co-administradores, para delegar responsabilidades de gerenciamento. | EE | $$ | <3<3 | 13 |
 | US20  | US20 - Eu, como administrador, gostaria de uma página de acesso próprio, para que eu possa ter acesso a dados e informações sigilosos | EEE | $$ | <3<3 | 13 |
 

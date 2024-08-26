@@ -70,5 +70,5 @@ A partir das métricas, pode-se calcular as variâncias, os índices de desempen
 
 | Data       | Versão | Descrição         | Autor       |
 | ---------- | ------ | ----------------- | ----------- |
-| 26/08/2024 | 1.0    | Documento inicial | [Vinícius Assumpção de Arauújo](github.com/viniman27) |
-| 26/08/2024 | 1.1    | Versiona o doc e add links | [João Pedro](github.com/JoaoPedro0803) |
+| 26/08/2024 | 1.0    | Documento inicial | [Vinícius Assumpção de Arauújo](github.com/viniman27), [Victor Hugo Oliveira Leão](https://github.com/victorleaoo),  [Gabriel Roger](https://github.com/GabrielRoger07)|
+| 26/08/2024 | 1.1    | Versiona o doc e add links | [João Pedro](github.com/JoaoPedro0803), [Victor Hugo Oliveira Leão](https://github.com/victorleaoo),  [Gabriel Roger](https://github.com/GabrielRoger07)|

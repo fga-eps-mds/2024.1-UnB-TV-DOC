@@ -26,9 +26,9 @@ Tabela com o planejamento de reuniões da Sprint:
 | US | Repositório | Responsáveis |
 | :---: | :---------: | :----------: |
 | US05 | Repositórios FRONTEND e USERS | João Pedro, Gabriel Henrique, Renan e Ruan |
-| US15 | Repositório FRONTEND e VIDEOSERVICE | Gabriel Roger, Jéssica e Pedro |
-| US16 | Repositório FRONTEND e VIDEOSERVICE | Victor Hugo, Benjamim, João Vitor e Vitor |
-| US22 | Repositórios FRONTEND e VIDEOSERVICE | Gabriel Roger, Jéssica, Luis e Pedro |
+| US15 | Repositório FRONTEND e VIDEOSERVICE | Victor Hugo, Benjamim, João Vitor e Vitor |
+| US16 | Repositório FRONTEND e VIDEOSERVICE | Vinicius, Felipe e João Victor Marques |
+| US22 | Repositórios FRONTEND e VIDEOSERVICE | Gabriel Roger, Jéssica, Luís e Pedro |
 
 ## 4. Conclusão da Sprint
 
@@ -37,3 +37,4 @@ Tabela com o planejamento de reuniões da Sprint:
 | Data | Versão | Descrição | Autor |
 | :-----: | :-------------: | :---------------: | :-: |
 | 26/08/2024 | 1.0 | Versão inicial do documento | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |
+| 26/08/2024 | 1.1 | Ajustes nas equipes de desenvolvimento | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |

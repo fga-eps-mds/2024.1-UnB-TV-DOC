@@ -19,6 +19,7 @@ nav:
     - Documentação dos Endpoints: codigo/endpoints.md
     - Arquitetura do projeto: codigo/arquitetura.md
     - Rodar o Projeto Local (Docker): codigo/rodarprojeto.md
+    - Guia de Estilo: codigo/guia_de_estilo.md
   - Planejamento:
     #- Plano de Tempo: planejamento/PlanejamentoTempo.md
     - Plano de Comunicação: planejamento/PlanoComunicacao.md

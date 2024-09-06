@@ -1,4 +1,4 @@
-# Sprint 6
+# Sprint 7
 
 ## 1. Objetivos
 
@@ -15,7 +15,7 @@ Tabela com o planejamento de reuniões da Sprint:
 | Reunião | Data/Horário |
 | :-----: | :----------: |
 | Planning | Segunda-feira (26/08), 18h15 |
-| Review + Retrospectiva | PLANEJADA PARA: Segunda-feira (02/09), 16h |
+| Review + Retrospectiva | Segunda-feira (02/09), 16h |
 
 ### 2.1 Definição de Pronto:
    - 50% de cobertura de testes.

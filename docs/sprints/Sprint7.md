@@ -32,6 +32,12 @@ Tabela com o planejamento de reuniões da Sprint:
 
 ## 4. Conclusão da Sprint
 
+Foi esperado o desenvolvimento das US05, US15 e US16 e US22 com o grupo sendo dividido em 3 quartetos e 1 trio, com 1 história para cada time. Assim, os integrantes de EPS apoiariam o desenvolvimento por parte dos estudantes de MDS.
+
+Além disso, foi passado para os alunos MDS conhecimentos relativos aos testes e da base de dados, para que eles consigam rodar e subir. Bem como ter um entendimento maior sobre o funcionamento da base de dados da aplicação.
+
+Com isso, o resultado das histórias foram de extrema qualidade, seguindo o protocolo de validação do PO, por meio de formulários que colhem a avaliação do dono do produto. Vale ressaltar o aprendizado dos alunos de MDS, que se adequaram ainda mais ao fluxo de desenvolvimento e desenvolveram as suas habilidades quanto à Engenharia de Software (desenvolvimento e participação em projeto de larga escala);
+
 ## 5. Versionamento do Documento
 
 | Data | Versão | Descrição | Autor |

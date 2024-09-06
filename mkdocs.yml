@@ -45,37 +45,36 @@ nav:
     - Sprint 8: sprints/Sprint8.md
   - Atas de Reuniões:
     - Reuniões da Equipe:
-      - Reunião 1: atasReuniao/reuniao1.md
-      - Reunião 2: atasReuniao/reuniao2.md
-      - Reunião 3: atasReuniao/reuniao3.md
-      - Reunião 7: atasReuniao/reuniao7.md
-      - Reunião 9: atasReuniao/reuniao9.md
-      - Reunião 14: atasReuniao/reuniao14.md
-      - Reunião 16: atasReuniao/reuniao16.md
-      - Reunião 17: atasReuniao/reuniao17.md
-      - Reunião 19: atasReuniao/reuniao19.md
-      - Reunião 20: atasReuniao/reuniao20.md
-      - Reunião 21: atasReuniao/reuniao21.md
-      - Reunião 23: atasReuniao/reuniao23.md
-      - Reunião 24: atasReuniao/reuniao24.md
-      - Reunião 26: atasReuniao/reuniao26.md
-      - Reunião 27: atasReuniao/reuniao27.md
-      - Reunião 29: atasReuniao/reuniao29.md   
+      - Pontapé Inicial: atasReuniao/reuniao1.md
+      - Ata Dojo Infra e Dev: atasReuniao/reuniao2.md
+      - Apresentação Lean Inception p/ MDS: atasReuniao/reuniao3.md
+      - Definição Story Points: atasReuniao/reuniao7.md
+      - Desenvolvimento 1ª US (US03): atasReuniao/reuniao9.md
+      - Planning Sprint 2: atasReuniao/reuniao11.md
+      - Planning Sprint 3: atasReuniao/reuniao12.md
+      - Retrospectiva Sprint 3: atasReuniao/reuniao14.md
+      - Planning Sprint 4: atasReuniao/reuniao16.md
+      - Retrospectiva Sprint 4: atasReuniao/reuniao17.md
+      - Planning Sprint 5: atasReuniao/reuniao19.md
+      - Overview Novos Integrantes: atasReuniao/reuniao20.md
+      - Retrospectiva Sprint 5: atasReuniao/reuniao21.md
+      - Planning Sprint 6: atasReuniao/reuniao23.md
+      - Retrospectiva Sprint 6: atasReuniao/reuniao24.md
+      - Planning Sprint 7: atasReuniao/reuniao26.md
+      - Retrospectiva Sprint 7: atasReuniao/reuniao27.md
+      - Planning Sprint 8: atasReuniao/reuniao29.md   
     - Reuniões com os Stakeholders:
-      - Reunião 4: atasReuniao/reuniao4.md
-      - Reunião 5: atasReuniao/reuniao5.md
-      - Reunião 6: atasReuniao/reuniao6.md
-      - Reunião 8: atasReuniao/reuniao8.md
-      - Reunião 10: atasReuniao/reuniao10.md
-      - Reunião 11: atasReuniao/reuniao11.md
-      - Reunião 12: atasReuniao/reuniao12.md
-      - Reunião 13: atasReuniao/reuniao13.md
-      - Reunião 15: atasReuniao/reuniao15.md
-      - Reunião 18: atasReuniao/reuniao18.md
-      - Reunião 22: atasReuniao/reuniao22.md
-      - Reunião 25: atasReuniao/reuniao25.md
-      - Reunião 26: atasReuniao/reuniao26.md
-      - Reunião 28: atasReuniao/reuniao28.md
+      - Kick-off projeto: atasReuniao/reuniao4.md
+      - Desenvolvimento MVP PT1: atasReuniao/reuniao5.md
+      - Desenvolvimento MVP PT2: atasReuniao/reuniao6.md
+      - Reunião com o PO para Início do Desenvolvimento: atasReuniao/reuniao8.md
+      - Review Sprint 1: atasReuniao/reuniao10.md
+      - Entrega Release 1 + Review Sprint 2: atasReuniao/reuniao13.md
+      - Review Sprint 3: atasReuniao/reuniao15.md
+      - Entrega Release 2 + Review Sprint 4: atasReuniao/reuniao18.md
+      - Review Sprint 5: atasReuniao/reuniao22.md
+      - Review Sprint 6: atasReuniao/reuniao25.md
+      - Entrega MVP (Release 3) + Review Sprint 7: atasReuniao/reuniao28.md
   - Metodologia de Comportamento do Projeto:
       - Qualidade de Software do Projeto: eps_metodologia/qualidade.md
       - Uso do PMBOK para Gerenciamento: eps_metodologia/usoPMBOK.md

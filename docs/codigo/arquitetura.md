@@ -96,7 +96,7 @@ Descrições breves dos pacotes:
 O diagrama de entidade-relacionamento serve como uma ferramenta gráfica para modelar bancos de dados, proporcionando uma visão clara e abrangente da estrutura do banco de dados. Este diagrama é útil para equipes de desenvolvimento, pois descreve visualmente os objetos (entidades) que fazem parte do projeto, incluindo suas características específicas (atributos) e as formas como se relacionam entre si.
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/fga-eps-mds/2024.1-UnB-TV-DOC/main/docs/assets/DiagramaEntidadeRelacionamento.png" />
+    <img src="https://raw.githubusercontent.com/fga-eps-mds/2024.1-UnB-TV-DOC/main/docs/assets/der_unbtv.png" />
 </p>
 
 ## 6. Diagrama Lógico de Dados (DLD)
@@ -104,7 +104,7 @@ O diagrama de entidade-relacionamento serve como uma ferramenta gráfica para mo
 O diagrama lógico de dados é uma representação detalhada que se aproxima da estrutura final a ser implementada no banco de dados. Este diagrama inclui tabelas, especificando todos os atributos, além de identificar as chaves primárias e estrangeiras. Ele define a estrutura dos elementos de dados e seus inter-relacionamentos, descrevendo assim as necessidades de dados requeridas para o projeto.
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/fga-eps-mds/2024.1-UnB-TV-DOC/main/docs/assets/DiagramaLogicoDeDados.png" />
+    <img src="https://raw.githubusercontent.com/fga-eps-mds/2024.1-UnB-TV-DOC/main/docs/assets/dld_unbtv.png" />
 </p>
 
 ## 5. Referências Bibliográficas
@@ -120,3 +120,4 @@ Geekhunter. O que são microsserviços e como funcionam?. Disponível em: https:
 | 15/07/2024 | Adição inicial do documento                              | [Vinícius Assumpção de araújo](https://github.com/viniman27)          |
 | 16/07/2024 | Adição do diagrama de arquitetura e implantação | [Victor Hugo Oliveira Leão](https://github.com/victorleaoo) |
 | 16/07/2024 | Adição do DER e do DLD | [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |
+| 16/07/2024 | Adição do DER e do DLD atualizado | [Victor Hugo Oliveira Leão](https://github.com/victorleaoo) |
